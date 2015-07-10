@@ -1,0 +1,2356 @@
+% This file was created with JabRef 2.10.
+% Encoding: MacRoman
+
+
+@InCollection{jurgovsky2015comparing,
+  Title                    = {Comparing Recursive Autoencoder and Convolutional Network for Phrase-Level Sentiment Polarity Classification},
+  Author                   = {Jurgovsky, Johannes and Granitzer, Michael},
+  Booktitle                = {Natural Language Processing and Information Systems},
+  Publisher                = {Springer International Publishing},
+  Year                     = {2015},
+  Pages                    = {160--166}
+}
+
+@InCollection{schlotterer2015context,
+  Title                    = {From Context-Aware to Context-Based: Mobile Just-In-Time Retrieval of Cultural Heritage Objects},
+  Author                   = {Schl�tterer, J�rg and Seifert, Christin and Lutz, Wolfgang and Granitzer, Michael},
+  Booktitle                = {Advances in Information Retrieval},
+  Publisher                = {Springer International Publishing},
+  Year                     = {2015},
+  Pages                    = {805--808},
+
+  File                     = {:2015 - Schl�tterer et. al. - From Context Aware to Context Based.pdf:PDF}
+}
+
+@Article{schlotterer2015game,
+  Title                    = {A Game with a Purpose to Access Europe's Cultural Treasure},
+  Author                   = {Schl�tterer, J�rg and Seifert, Christin and Wagner, Lisa and Granitzer, Michael},
+  Year                     = {2015},
+
+  File                     = {:2015 - Schl�tterer et. al. - A Game with a Purpose to Access Europe's Cultural Treasure.pdf:PDF}
+}
+
+@Article{seifert2015eexcess,
+  Title                    = {EEXCESS: Personalisierter Zugriff auf Long-Tail-Inhalte--neue Methoden zur Verbreitung wissenschaftlich-kulturellen Wissens},
+  Author                   = {Seifert, Christin and Granitzer, Michael},
+  Journal                  = {Information-Wissenschaft \& Praxis},
+  Year                     = {2015},
+  Number                   = {2-3},
+  Pages                    = {103--110},
+  Volume                   = {66},
+
+  File                     = {:2015 - Seifert, Granitzer - Personalisierter Zugriff auf Long-Tail-Inhalte.pdf:PDF}
+}
+
+@InCollection{Zwicklbauer2015,
+  Title                    = {Linking Biomedical Data to the Cloud},
+  Author                   = {Zwicklbauer, Stefan and Seifert, Christin and Granitzer, Michael},
+  Booktitle                = {Smart Health, Lecture Notes in Computer Science},
+  Year                     = {2015},
+  Editor                   = {Holzinger, Andreas and R\"{o}cker, Carsten and Martina, Ziefle},
+  Pages                    = {209--325},
+  Volume                   = {8700},
+
+  Abstract                 = {The application of Knowledge Discovery and Data Mining approaches forms the basis of realizing the vision of Smart Hospitals. For instance, the automated creation of high-quality knowledge bases from clinical reports is important to facilitate decision making processes for clinical doctors. A subtask of creating such structured knowledge is entity disambiguation that establishes links by identifying the correct semantic meaning from a set of candidate meanings to a text fragment. This paper provides a short, concise overview of entity disambiguation in the biomedical domain, with a focus on annotated corpora (e.g. CalbC), term disambiguation algorithms (e.g. abbreviation disambiguation) as well as gene and protein disambiguation algorithms (e.g. inter-species gene name disambiguation). Finally, we provide some open problems and future challenges that we expect future research will take into account.},
+  Doi                      = {10.1007/978-3-319-08416-9},
+  ISBN                     = {978-3-319-08415-2},
+  Url                      = {http://link.springer.com/10.1007/978-3-319-08416-9}
+}
+
+@InCollection{Gkoulalas-Divanis2014,
+  Title                    = {Visual Analysis and Knowledge Discovery for Text},
+  Author                   = {Seifert, Christin and Sabol, Vedran and Kienreich, Wolfgang and Lex, Elisabeth and Granitzer, Michael},
+  Booktitle                = {Large-Scale Data Analytics},
+  Publisher                = {Springer New York},
+  Year                     = {2014},
+
+  Address                  = {New York, NY},
+  Editor                   = {Gkoulalas-Divanis, Aris and Labbi, Abderrahim},
+  Pages                    = {pp 189--218},
+
+  Abstract                 = {Providing means for effectively accessing and exploring large textual data sets is a problem attracting the attention of text mining and information visualization experts alike. The rapid growth of the data volume and heterogeneity, as well as the richness of metadata and the dynamic nature of text repositories, add to the complexity of the task. This chapter provides an overview of data visualization methods for gaining insight into large, heterogeneous, dynamic textual data sets. We argue that visual analysis, in combination with automatic knowledge discovery methods, provides several advantages. Besides introducing human knowledge and visual pattern recognition into the analytical process, it provides the possibility to improve the performance of automatic methods through user feedback.},
+  Doi                      = {10.1007/978-1-4614-9242-9},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Seifert et al. - 2014 - Visual Analysis and Knowledge Discovery for Text.pdf:PDF;:2014 - Seifert et al. - Visual Analysis and Knowledge Discovery for Text.pdf:PDF},
+  ISBN                     = {978-1-4614-9241-2},
+  Url                      = {http://link.springer.com/10.1007/978-1-4614-9242-9}
+}
+
+@InProceedings{Granitzer2014,
+  Title                    = {Linked Data in Context: Questions Matter},
+  Author                   = {Granitzer, Michael and Stegmaier, Florian and Hoefler, Patrick and Kern, Roman and Sabol, Vedran},
+  Booktitle                = {European Data Forum 2014},
+  Year                     = {2014},
+
+  Abstract                 = {Linked Open Data has grown into a large and recognized source of data, however its uptake and commercial exploitation does not yet reflect its potential value. Two factors with potential to contribute to the value of data are correlating previously uncorrelated data and providing answers based on the data. We present a data-centric question answering portal focusing on answers based on empirical facts embedded in numerical Linked Open Data. The portal is backed by a number of services addressing i) data extraction and semantic integration, ii) creating, merging and extending data sets, and iii) discovery and visual analysis targeting IT laymen.},
+  Url                      = {http://ercim-news.ercim.eu/en96/special/lost-in-semantics-ballooning-the-web-of-data}
+}
+
+@InProceedings{Hoefler2014a,
+  Title                    = {Linked Data Query Wizard: A Novel Interface for Accessing SPARQL Endpoints},
+  Author                   = {Hoefler, Patrick and Granitzer, Michael and Veas, Eduardo and Seifert, Christin},
+  Booktitle                = {Proceedings of Linked Data on the Web (LDOW) at WWW 2014},
+  Year                     = {2014},
+
+  Address                  = {Seoul},
+
+  Abstract                 = {In an interconnected world, Linked Data is more important than ever before. However, it is still quite difficult to access this new wealth of semantic data directly without having in-depth knowledge about SPARQL and related semantic technologies. Also, most people are currently used to con- suming data as 2-dimensional tables. Linked Data is by defi- nition always a graph, and not that many people are used to handle data in graph structures. Therefore we present the Linked Data Query Wizard, a web-based tool for displaying, accessing, filtering, exploring, and navigating Linked Data stored in SPARQL endpoints. The main innovation of the interface is that it turns the graph structure of Linked Data into a tabular interface and provides easy-to-use interaction possibilities by using metaphors and techniques from current search engines and spreadsheet applications that regular web users are already familiar with.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Hoefler et al. - 2014 - Linked Data Query Wizard A Novel Interface for Accessing SPARQL Endpoints.pdf:PDF;:2014 - Hoefler et al. - Linked Data Query Wizard A Novel Interface for Accessing SPARQL Endpoints.pdf:PDF},
+  Keywords                 = {Linked Data,RDF Data Cube,SPARQL,User Interface},
+  Mendeley-tags            = {Linked Data,RDF Data Cube,SPARQL,User Interface},
+  Url                      = {http://events.linkeddata.org/ldow2014/papers/ldow2014\_paper\_06.pdf}
+}
+
+@TechReport{Kern2014a,
+  Title                    = {Recommending Scientific Literature: Comparing Use-Cases and Algorithms},
+  Author                   = {Kern, Roman and Jack, Kris and Granitzer, Michael},
+  Institution              = {arXiv},
+  Year                     = {2014},
+
+  Abstract                 = {An important aspect of a researcher's activities is to find relevant and related publications. The task of a recommender system for scientific publications is to provide a list of papers that match these criteria. Based on the collection of publications managed by Mendeley, four data sets have been assembled that reflect different aspects of relatedness. Each of these relatedness scenarios reflect a user's search strategy. These scenarios are public groups, venues, author publications and user libraries. The first three of these data sets are being made publicly available for other researchers to compare algorithms against. Three recommender systems have been implemented: a collaborative filtering system; a content-based filtering system; and a hybrid of these two systems. Results from testing demonstrate that collaborative filtering slightly outperforms the content-based approach, but fails in some scenarios. The hybrid system, that combines the two recommendation methods, provides the best performance, achieving a precision of up to 70\%. This suggests that both techniques contribute complementary information in the context of recommending scientific literature and different approaches suite for different information needs.},
+  Archiveprefix            = {arXiv},
+  Arxivid                  = {1409.1357},
+  Booktitle                = {arXiv},
+  Eprint                   = {1409.1357}
+}
+
+@Article{Klampfl2014,
+  Title                    = {Unsupervised document structure analysis of digital scientific articles},
+  Author                   = {Klampfl, Stefan and Granitzer, Michael and Jack, Kris and Kern, Roman},
+  Journal                  = {International Journal on Digital Libraries},
+  Year                     = {2014},
+
+  Abstract                 = {Text mining and information retrieval in large collections of scientific literature require automated processing systems that analyse the documents' content. However, the layout of scientific articles is highly varying across publishers, and common digital document formats are optimised for presentation, but lack structural information. To overcome these challenges, we have developed a processing pipeline that analyses the structure a PDF document using a number of unsupervised machine learning techniques and heuristics. Apart from the meta-data extraction, which we reused from previous work, our system uses only information available from the current document and does not require any pre-trained model. First, contiguous text blocks are extracted from the raw character stream. Next, we determine geometrical relations between these blocks, which, together with geometrical and font information, are then used categorize the blocks into different classes. Based on this resulting logical structure we finally extract the body text and the table of contents of a scientific article. We separately evaluate the individual stages of our pipeline on a number of different datasets and compare it with other document structure analysis approaches. We show that it outperforms a state-of-the-art system in terms of the quality of the extracted body text and table of contents. Our unsupervised approach could provide a basis for advanced digital library scenarios that involve diverse and dynamic corpora.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Klampfl et al. - 2014 - Unsupervised document structure analysis of digital scientific articles.pdf:PDF;:2014 - Klampfl et al. - Unsupervised document structure analysis of digital scientific articles.pdf:PDF}
+}
+
+@Proceedings{Lindstaedt2014,
+  Title                    = {Proceedings of the 14th International Conference on Knowledge Technologies and Data-driven Business},
+  Year                     = {2014},
+  Publisher                = {ACM New York, NY, USA},
+
+  Author                   = {Lindstaedt, Stefanie and Michael, Granitzer and Sack, Harald},
+  Pages                    = {1},
+  Url                      = {http://dl.acm.org/icps.cfm}
+}
+
+@InProceedings{Meixner:2014:MHS:2637748.2638429,
+  Title                    = {A Multimedia Help System for a Medical Scenario in a Rehabilitation Clinic},
+  Author                   = {Meixner, Britta and Tonndorf, Katrin and John, Stefan and Handschigl, Christian and Hofmann, Kai and Granitzer, Michael},
+  Booktitle                = {Proceedings of the 14th International Conference on Knowledge Technologies and Data-driven Business},
+  Year                     = {2014},
+
+  Address                  = {New York, NY, USA},
+  Pages                    = {25:1--25:8},
+  Publisher                = {ACM},
+  Series                   = {i-KNOW '14},
+
+  Acmid                    = {2638429},
+  Articleno                = {25},
+  Doi                      = {10.1145/2637748.2638429},
+  File                     = {:2014 - Meixner et al. - A multimedia help system for a medical scenario in a rehabilitation clinic.pdf:PDF;:2014 - Meixner et al. - A multimedia help system for a medical scenario in a rehabilitation clinic.pdf:PDF},
+  ISBN                     = {978-1-4503-2769-5},
+  Keywords                 = {HTML5 player, authoring tool, help system, hypervideo, multimedia, server application},
+  Location                 = {Graz, Austria},
+  Numpages                 = {8},
+  Url                      = {http://doi.acm.org/10.1145/2637748.2638429}
+}
+
+@InProceedings{Mutlu2014a,
+  Title                    = {Suggesting Visualisations for Published Data},
+  Author                   = {Mutlu, Belgin and Hoefler, Patrick and Tschinkel, Gerwald and Veas, Eduardo and Sabol, Vedran and Stegmaier, Florian and Granitzer, Michael},
+  Booktitle                = {9th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications},
+  Year                     = {2014},
+
+  Abstract                 = {Research papers are published in various digital libraries, which deploy their own meta-models and technologies to manage, query, and analyze scientific facts therein. Commonly they only consider the meta-data provided with each article, but not the contents. Hence, reaching into the contents of publications is inherently a tedious task. On top of that, scientific data within publications are hardcoded in a fixed format (e.g. tables). So, even if one manages to get a glimpse of the data published in digital libraries, it is close to impossible to carry out any analysis on them other than what was intended by the authors. More effective querying and analysis methods are required to better understand scientific facts. In this paper, we present the web-based CODE Visualisation Wizard, which provides visual analysis of scientific facts with emphasis on automating the visualisation process, and present an experiment of its application. We also present the entire analytical process and the corresponding tool chain, including components for extraction of scientific data from publications, an easy to use user interface for querying RDF knowledge bases, and a tool for semantic annotation of scientific data sets.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Mutlu et al. - 2014 - Suggesting Visualisations for Published Data.pdf:PDF;:2014 - Mutlu et al. - Suggesting Visualisations for Published Data.pdf:PDF},
+  Keywords                 = {Linked Data,RDF Data Cube,Research Data,Visual Mapping,Visualisation},
+  Url                      = {http://ivapp.visigrapp.org/}
+}
+
+@InCollection{Sabol2014,
+  Title                    = {Discovery and Visual Analysis of Linked Data for Humans},
+  Author                   = {Sabol, Vedran and Tschinkel, Gerwald and Veas, Eduardo and Hoefler, Patrick and Mutlu, Belgin and Michael, Granitzer},
+  Booktitle                = {The Semantic Web– \ldots},
+  Publisher                = {Springer International Publishing},
+  Year                     = {2014},
+
+  Address                  = {Cham},
+  Editor                   = {Mika, Peter and Tudorache, Tania and Bernstein, Abraham and Welty, Chris and Knoblock, Craig and Vrande\v{c}i\'{c}, Denny and Groth, Paul and Noy, Natasha and Janowicz, Krzysztof and Goble, Carole},
+  Pages                    = {309--324},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {8796},
+
+  Abstract                 = {Linked Data has grown to become one of the largest available knowledge bases. Unfortunately, this wealth of data remains inaccessible to those without in-depth knowledge of semantic technologies. We describe a toolchain enabling users without semantic technology background to explore and visually analyse Linked Data. We demonstrate its applicability in scenarios involving data from the Linked Open Data Cloud, and research data extracted from scientific publications. Our focus is on the Web-based front-end consisting of querying and visualisation tools. The performed usability evaluations unveil mainly positive results confirming that the Query Wizard simplifies searching, refining and transforming Linked Data and, in particular, that people using the Visualisation Wizard quickly learn to perform interactive analysis tasks on the resulting Linked Data sets. In making Linked Data analysis effectively accessible to the general public, our tool has been integrated in a number of live services where people use it to analyse, discover and discuss facts with Linked Data.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Sabol et al. - 2014 - Discovery and Visual Analysis of Linked Data for Humans.pdf:pdf},
+  ISBN                     = {978-3-319-11963-2},
+  Url                      = {http://link.springer.com/chapter/10.1007/978-3-319-11964-9\_20 http://link.springer.com/10.1007/978-3-319-11964-9}
+}
+
+@InProceedings{Schlegel2014,
+  Title                    = {Balloon Synopsis : A jQuery plugin to easily integrate the Semantic Web in a website ?},
+  Author                   = {Schlegel, Kai and Wei\ss gerber, Thomas and Stegmaier, Florian and Granitzer, Michael and Kosch, Harald},
+  Booktitle                = {ISWC2014 Developers Workshop, co-located with the 13th International Semantic Web Conference},
+  Year                     = {2014},
+
+  Address                  = {Riva del Garda, Trentino, Italy},
+  Number                   = {610480},
+  Pages                    = {1--6},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Schlegel et al. - 2014 - Balloon Synopsis A jQuery plugin to easily integrate the Semantic Web in a website.pdf:PDF;:2014 - Schlegel et al. - Balloon Synopsis A jQuery plugin to easily integrate the Semantic Web in a website.pdf:PDF}
+}
+
+@InProceedings{Schlegel2014a,
+  Title                    = {Balloon Fusion: SPARQL Rewriting Based on Unified Co-Reference Information},
+  Author                   = {Schlegel, Kai and Stegmaier, Florian and Bayerl, Sebastian and Granitzer, Michael and Kosch, Harald},
+  Booktitle                = {5th International Workshop on Data Engineering Meets the Semantic Web, co-located with the 30th IEEE International Conference on Data Engineering},
+  Year                     = {2014},
+
+  Abstract                 = {While Linked Open Data showed enormous increase in volume, yet there is no single point of access for querying the over 200 SPARQL repositories. In this paper we present Balloon Fusion, a SPARQL 1.1 rewriting and query federation service build on crawling and consolidating co-reference relationships in over 100 reachable Linked Data SPARQL Endpoints. The results of this process are 17.6M co-reference statements that have been clustered to 8.4M distinct semantic entities and are now accessible as download for further analysis. The proposed SPARQL rewriting performs a substitution of all URI occurrences with their synonyms combined with an automatic endpoint selection based on URI origin for a comprehensive query federation. While we show the technical feasibility, we also critically reflect the current status of the Linked Open Data cloud: although it is huge in size, access via SPARQL Endpoints is complicated in most cases due to missing quality of service.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Schlegel et al. - 2014 - Balloon Fusion SPARQL Rewriting Based on Unified Co-Reference Information.pdf:PDF;:2014 - Schlegel et al. - Balloon Fusion SPARQL Rewriting Based on Unified Co-Reference Information.pdf:PDF},
+  Keywords                 = {Co-Reference Information,Linked Open Data Aggregation,Query Federation,SPARQL Rewriting}
+}
+
+@InProceedings{Schlegel2014b,
+  Title                    = {Balloon Synopsis: A Modern Node-Centric RDF Viewer and Browser for the Web},
+  Author                   = {Schlegel, Kai and Wei\ss gerber, Thomas and Stegmaier, Florian and Seifert, Christin and Granitzer, Michael and Kosch, Harald},
+  Booktitle                = {11th European Semantic Web Conference (Poster Session)},
+  Year                     = {2014},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Schlegel et al. - 2014 - Balloon Synopsis A Modern Node-Centric RDF Viewer and Browser for the Web.pdf:PDF;:2014 - Schlegel et al. - Balloon Synopsis A Modern Node-Centric RDF Viewer and Browser for the Web.pdf:PDF}
+}
+
+@InProceedings{Schlotterer,
+  Title                    = {Web-based Just-In-Time Retrieval for Cultural Content},
+  Author                   = {Schl\"{o}tterer, J\"{o}rg and Seifert, Christin and Granitzer, Michael},
+  Booktitle                = {Demo Publications at 14th I-Know Conference},
+  Year                     = {2014},
+  Pages                    = {3--6},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Schl"{o}tterer, Seifert, Granitzer - 2014 - Web-based Just-In-Time Retrieval for Cultural Content.pdf:PDF;:2014 - Schl?tterer, Seifert, Granitzer - Web-based Just-In-Time Retrieval for Cultural Content.pdf:PDF},
+  Keywords                 = {browser extension,cultural heritage,just-in-time-retrieval,personalized search}
+}
+
+@InProceedings{Schlotterer2014,
+  Title                    = {From Tail to Head : Browser Based Suggestion of Long-tail Resources},
+  Author                   = {Schl\"{o}tterer, J\"{o}rg and Granitzer, Michael and Seifert, Christin and Kern, Roman},
+  Booktitle                = {Demos at I-Know Conference},
+  Year                     = {2014}
+}
+
+@InProceedings{Seifert2014,
+  Title                    = {FacetScape : A Visualization for Exploring the Search Space},
+  Author                   = {Seifert, Christin and Jurgovsky, Johannes and Granitzer, Michael},
+  Booktitle                = {Proceedings 18th International Conference on Information Visualzation},
+  Year                     = {2014},
+  Pages                    = {94--101},
+
+  Doi                      = {10.1109/IV.2014.49},
+  Keywords                 = {-faceted navigation,best paper award,search user interfaces,user},
+  Mendeley-tags            = {best paper award}
+}
+
+@Article{Stegmaier2014,
+  Title                    = {Lost in Semantics? Ballooning the Web of Data},
+  Author                   = {Stegmaier, Florian and Schlegel, Kai and Granitzer, Michael},
+  Journal                  = {ERCIM News},
+  Year                     = {2014},
+  Number                   = {96},
+  Pages                    = {18--19},
+  Volume                   = {January14},
+
+  Abstract                 = {Although Linked Open Data has increased enormously in volume over recent years, there is still no single point of access for querying the over 200 SPARQL repositories. The Balloon project aims to create a Meta Web of Data focusing on structural information by crawling co-reference relationships in all registered and reachable Linked Data SPARQL endpoints. The current Linked Open Data cloud, although huge in size, offers poor service quality and is inadequately maintained, thus complicating access via SPARQL endpoints. This issue needs to be resolved before the Linked Open Data cloud can achieve its full potential.},
+  File                     = {:2014 - Stegmaier et. al. - Lost in Semantics.pdf:PDF;:2014 - Stegmaier et. al. - Lost in Semantics.pdf:PDF}
+}
+
+@Misc{Granitzer2013,
+  Title                    = {Making the long tail of scientific resources mainstream},
+
+  Author                   = {Granitzer, Michael},
+  Year                     = {2013},
+
+  Booktitle                = {euroscientist.com},
+  Url                      = {http://euroscientist.com/2013/10/making-the-long-tail-of-scientific-resources-mainstream/}
+}
+
+@InProceedings{Granitzer2013a,
+  Title                    = {Unfolding cultural, educational and scientific long-tail content in the Web},
+  Author                   = {Granitzer, Michael and Seifert, Christin and Russegger, Silvia and Tochtermann, Klaus},
+  Booktitle                = {Late-Breaking Results, Project Papers and Workshop Proceedings of the 21st Conference on User Modeling, Adaptation, and Personalization.},
+  Year                     = {2013},
+
+  Address                  = {Rome, Italy},
+  Editor                   = {Shlomo, Berkovsky and Eelco, Herder and Pasquale, Lops and {Olga C.}, Santos},
+  Publisher                = {CEUR-WS Vol-997},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2013 - Unfolding cultural, educational and scientific long-tail content in the Web.pdf:pdf},
+  Keywords                 = {cultural content,educational and scientific resources,long-tail content,per-,sonalized recommendation},
+  Url                      = {http://ceur-ws.org/Vol-997/\#umap2013-lbr}
+}
+
+@InProceedings{Helic2013,
+  Title                    = {Models of human navigation in information networks based on decentralized search},
+  Author                   = {Helic, Denis and Strohmaier, Markus and Granitzer, Michael and Scherer, Reinhold},
+  Booktitle                = {Proceedings of the 24th ACM Conference on Hypertext and Social Media - HT '13},
+  Year                     = {2013},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {89--98},
+  Publisher                = {ACM Press},
+
+  Doi                      = {10.1145/2481492.2481502},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Helic et al. - 2013 - Models of human navigation in information networks based on decentralized search.pdf:pdf},
+  ISBN                     = {9781450319676},
+  Keywords                 = {Nominee for the ACM Douglas Engelbart Best Paper A,decentralized search,exploitation,exploration,navigation},
+  Mendeley-tags            = {Nominee for the ACM Douglas Engelbart Best Paper A},
+  Url                      = {http://dl.acm.org/citation.cfm?doid=2481492.2481502}
+}
+
+@InProceedings{Hoefler2013a,
+  Title                    = {Linked Data Query Wizard: A Tabular Interface for the Semantic Web},
+  Author                   = {Hoefler, Patrick and Granitzer, Michael and Sabol, Vedran and Lindstaedt, Stefanie},
+  Booktitle                = {ESWC 2013, LNCS 7882},
+  Year                     = {2013},
+  Editor                   = {Cimiano, P.},
+
+  Doi                      = {10.1007/978-3-642-41242-4\_19},
+  Keywords                 = {interfaces,linked data,rdf,semantic web,sparql},
+  Url                      = {http://dx.doi.org/10.1007/978-3-642-41242-4\_19}
+}
+
+@Book{Lindstaedt2013,
+  Title                    = {Proceedings of the 13th International Conference on Knowledge Management and Knowledge Technologies},
+  Author                   = {Lindstaedt, Stefanie and Granitzer, Michael},
+  Publisher                = {ACM},
+  Year                     = {2013},
+
+  Address                  = {Graz},
+
+  Url                      = {http://dl.acm.org/citation.cfm?id=2494188\&CFID=370922279\&CFTOKEN=47249212}
+}
+
+@InProceedings{MarkKroll2013,
+  Title                    = {Integrating User Preferences Into Distance Metrics},
+  Author                   = {{Mark Kr\"{o}ll} and Kern, Roman and Granitzer, Michael},
+  Booktitle                = {LWA 2013 Workshop on Knowledge Discovery, Data Mining and Machine Learning (KDML-2013)},
+  Year                     = {2013}
+}
+
+@Article{Marques2013,
+  Title                    = {Collaborative development of a semantic wiki on forest management decision support},
+  Author                   = {Marques, A.F. and Rosset, C. and Rasinmaki, J. and Vacik, H. and Gordon, S. and Nobre, S. and Falcao, A. and Weber, D. and Granitzer, M. and Eriksson, L.O.},
+  Journal                  = {Scandinavian Journal of Forest Research},
+  Year                     = {2013},
+  Number                   = {7},
+  Pages                    = {1--14},
+  Volume                   = {28}
+}
+
+@InProceedings{Mutlu2013,
+  Title                    = {Automated Visualization Support for Linked Research Data},
+  Author                   = {Mutlu, Belgin and Hoefler, Patrick and Sabol, Vedran and Tschinkel, Gerwald and Granitzer, Michael},
+  Booktitle                = {Proceedings of i-SEMANTICS 2013},
+  Year                     = {2013},
+
+  Address                  = {Graz},
+
+  Keywords                 = {linked data,rdf data cube,research data,visualization},
+  Mendeley-tags            = {linked data,rdf data cube,research data,visualization},
+  Url                      = {http://i-semantics.tugraz.at/posters-demos-phd/accepted-papers}
+}
+
+@InProceedings{Schlegel2013,
+  Title                    = {Trusted Facts: Triplifying Primary Research Data Enriched with Provenance Information},
+  Author                   = {Schlegel, Kai and Bayerl, Sebastian and Zwicklbauer, Stefan and Stegmaier, Florian and Seifert, Christin and Granitzer, Michael and Kosch, Harald},
+  Booktitle                = {Proceedings of the 10th Extended Semantic Web Conference},
+  Year                     = {2013},
+  Publisher                = {to appear.}
+}
+
+@Article{Schoefegger2013,
+  Title                    = {A survey on socio-semantic information retrieval},
+  Author                   = {Schoefegger, Karin and Tammet, Tanel and Granitzer, Michael},
+  Journal                  = {COMPUTER SCIENCE REVIEW},
+  Year                     = {2013},
+  Number                   = {8},
+  Pages                    = {25--46},
+
+  Abstract                 = {The rise of the Social Web and advances in the Semantic Web provides unprecedented possibilities for the development of novel methods to enhance the information retrieval (IR) process by including varying degrees of semantics. We shed light on the corresponding notion of semantically-enhanced information retrieval by presenting state-of-the art techniques in related research areas. We describe techniques based on the main processes of a typical IR workflow and map them onto three main types of semantics, which vary from formal semantic knowledge representations and content-based semantics to social semantics emerging through usage and user interactions.},
+  Doi                      = {http://dx.doi.org/10.1016/j.cosrev.2013.03.001},
+  Keywords                 = {Information Retrieval,Semantic Web,Social Retrieval,Survey},
+  Mendeley-tags            = {Information Retrieval,Semantic Web,Social Retrieval,Survey}
+}
+
+@Article{Seifert2013,
+  Title                    = {Text Representation for Efficient Document Annotation},
+  Author                   = {Seifert, Christin and Ulbrich, Eva and Kern, Roman and Granitzer, Michael},
+  Journal                  = {Journal of Universal Computer Science,},
+  Year                     = {2013},
+  Number                   = {3},
+  Pages                    = {383--405},
+  Volume                   = {19},
+
+  Doi                      = {10.3217/jucs-019-03-0383},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Seifert et al. - 2013 - Text Representation for Efficient Document Annotation.pdf:pdf},
+  Keywords                 = {1,2,7,category,data,document labelling,h,mining,supervised learning,tag clouds,text summarisation,textrank,word clouds}
+}
+
+@InProceedings{Seifert2013a,
+  Title                    = {Crowdsourcing Fact Extraction from Scientific Literature},
+  Author                   = {Seifert, Christin and Granitzer, Michael and H\"{o}fler, Patrick and Mutlu, Belgin and Sabol, Vedran and Schlegel, Kai and Bayerl, Sebastian and Stegmaier, Florian and Zwicklbauer, Stefan and Kern, Roman},
+  Booktitle                = {Workshop on Human-Computer Interaction and Knowledge Discovery (SouthCHI)},
+  Year                     = {2013},
+
+  Address                  = {Maribor, Slovenia},
+  Publisher                = {Springer},
+  Series                   = {LNCS},
+  Volume                   = {7947}
+}
+
+@InProceedings{Stegmaier2013,
+  Title                    = {Unleashing Semantics of Research Data},
+  Author                   = {Stegmaier, Florian and Seifert, Christin and Kern, Roman and Patrick, H and Bayerl, Sebastian and Granitzer, Michael and Kosch, Harald and Lindstaedt, Stefanie and Mutlu, Belgin and Sabol, Vedran and Schlegel, Kai and Zwicklbauer, Stefan},
+  Booktitle                = {Proceedings of the 2nd Workshop on Big Data Benchmarking (to-appear)},
+  Year                     = {2013},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Stegmaier et al. - 2013 - Unleashing Semantics of Research Data.pdf:pdf},
+  Keywords                 = {data ware-,linked data,natural language processing},
+  Url                      = {http://www.mendeley.com/research/unleashing-semantics-of-research-data/}
+}
+
+@InProceedings{Zwicklbauer2013,
+  Title                    = {Do We Need Entity-Centric Knowledge Bases for Entity Disambiguation?},
+  Author                   = {Zwicklbauer, Stefan and Seifert, Christin and Granitzer, Michael},
+  Booktitle                = {13th International Conference on Knowledge Management and Knowledge Technologies (i-KNOW 2013)},
+  Year                     = {2013}
+}
+
+@InProceedings{Zwicklbauer2013a,
+  Title                    = {Towards Disambiguating Web Tables},
+  Author                   = {Zwicklbauer, Stefan and Einsiedler, Christoph and Granitzer, Michael and Seifert, Christin},
+  Booktitle                = {Proceedings of the International Semantic Web Conference 2013 (ISWC 2013)},
+  Year                     = {2013},
+  Pages                    = {(Poster)},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Zwicklbauer et al. - 2013 - Towards Disambiguating Web Tables.pdf:pdf}
+}
+
+@InProceedings{Granitzer2012,
+  Title                    = {A comparison of metadata extraction techniques for crowdsourced bibliographic metadata management},
+  Author                   = {Granitzer, Michael and Hristakeva, Maya and Jack, Kris and Knight, Robert},
+  Booktitle                = {Proceedings of the 27th Annual ACM Symposium on Applied Computing - SAC '12},
+  Year                     = {2012},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {962},
+  Publisher                = {ACM Press},
+
+  Abstract                 = {Social research networks such as Mendeley and CiteULike offer various services for collaboratively managing biblio- graphic metadata and uploading textual artifacts. One core problem thereby is the extraction of bibliographic meta- data from the textual artifacts. Our work investiages the use of Conditional Random Fields and Support Vector Ma- chines, implemented in two state-of-the-art real-world sys- tems, namely ParsCit and the Mendeley Desktop, for auto- matically extracting bibliographic metadata. We compare the systems’ accuracy on two newly created real-world data sets gathered from Mendeley and Linked-Open-Data repos- itories. Our analysis shows that two-stage SVMs provide reasonable performance in solving the challenge of metadata extraction from user-provided textual artifacts.},
+  Doi                      = {10.1145/2245276.2245462},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2012 - A comparison of metadata extraction techniques for crowdsourced bibliographic metadata management.pdf:pdf},
+  ISBN                     = {9781450308571},
+  Keywords                 = {Conditional Random Fields,Mendeley,Metadata Extraction,Social Research Networks,Support Vector Machines,TEAM Publication,evaluation,metadata extraction,research papers},
+  Mendeley-tags            = {Conditional Random Fields,Mendeley,Metadata Extraction,Social Research Networks,Support Vector Machines,TEAM Publication},
+  Url                      = {http://dl.acm.org/citation.cfm?doid=2245276.2245462}
+}
+
+@InProceedings{Granitzer2012a,
+  Title                    = {A comparison of layout based bibliographic metadata extraction techniques},
+  Author                   = {Granitzer, Michael and Hristakeva, Maya and Knight, Robert and Jack, Kris and Kern, Roman},
+  Booktitle                = {Proceedings of the 2nd International Conference on Web Intelligence, Mining and Semantics - WIMS '12},
+  Year                     = {2012},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {1},
+  Publisher                = {ACM Press},
+
+  Abstract                 = {Social research networks such as Mendeley and CiteULike offer various services for collaboratively managing biblio- graphicmetadata. Compared with traditional libraries,meta- data quality is of crucial importance in order to create a crowdsourced bibliographic catalog for search and brows- ing. Artifacts, in particular PDFs which are managed by the users of the social research networks, become one im- portant metadata source and the starting point for creating a homogeneous, high quality, bibliographic catalog. Natural Language Processing and Information Extraction techniques have been employed to extract structured information from unstructured sources. However, given highly heterogeneous artifacts that cover a range of publication styles, stemming from different publication sources, and imperfect PDF pro- cessing tools, how accurate aremetadata extractionmethods in such real-world settings? This paper focuses on answer- ing that question by investigating the use of Conditional Random Fields and Support Vector Machines on real-world data gathered from Mendeley and Linked-Data repositories. We compare style and content features on existing state-of- the-art methods on two newly created real-world data sets for metadata extraction. Our analysis shows that two-stage SVMs provide reasonable performance in solving the chal- lenge ofmetadata extraction for crowdsourcing bibliographic metadata management.},
+  Doi                      = {10.1145/2254129.2254154},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2012 - A comparison of layout based bibliographic metadata extraction techniques.pdf:pdf},
+  ISBN                     = {9781450309158},
+  Keywords                 = {bib-,layout features,metadata extraction,research papers},
+  Url                      = {http://dl.acm.org/citation.cfm?doid=2254129.2254154}
+}
+
+@Article{Granitzer2012b,
+  Title                    = {Special Issue on the Theory and Application of Visual Analytics (eds.)},
+  Author                   = {Granitzer, Michael and Kienreich, Wolfgang and Sabol, Vedran},
+  Journal                  = {Journal of Multimedia Processing and Technologies Volume},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {1--2},
+  Volume                   = {3},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer, Kienreich, Sabol - 2012 - Special Issue on the Theory and Application of Visual Analytics (eds.).pdf:pdf}
+}
+
+@Article{Grzegorzek2012,
+  Title                    = {Trends in semantic and digital media technologies},
+  Author                   = {Grzegorzek, Marcin and Granitzer, Michael and R\"{u}ger, Stefan and Sintek, Michael and Declerck, Thierry and Romanelli, Massimo},
+  Journal                  = {Multimedia Tools and Applications},
+  Year                     = {2012},
+
+  Month                    = may,
+
+  Doi                      = {10.1007/s11042-012-1106-0},
+  ISSN                     = {1380-7501},
+  Url                      = {http://www.springerlink.com/index/10.1007/s11042-012-1106-0}
+}
+
+@InProceedings{Hammerton2012,
+  Title                    = {On generating large-scale ground truth datasets for the deduplication of bibliographic records},
+  Author                   = {Hammerton, James A and Granitzer, Michael and Harvey, Dan and Hristakeva, Maya and Jack, Kris},
+  Booktitle                = {Proceedings of the 2nd International Conference on Web Intelligence, Mining and Semantics - WIMS '12},
+  Year                     = {2012},
+
+  Address                  = {New York, New York, USA},
+  Number                   = {January},
+  Pages                    = {1},
+  Publisher                = {ACM Press},
+
+  Abstract                 = {Mendeley’s crowd-sourced catalogue of research papers forms the basis of features such as the ability to search for papers, finding papers related to one currently being viewed and per- sonalised recommendations. In order to generate this cat- alogue it is necessary to deduplicate the records uploaded from users’ libraries and imported from external sources such as PubMed and arXiv. This task has been achieved at Mendeley via an automated system. However the quality of the deduplication needs to be im- proved. “Ground truth” data sets are thus needed for eval- uating the system’s performance but existing datasets are very small. In this paper, the problem of generating large scale data sets from Mendeley’s database is tackled. An approach based purely on random sampling produced very easy data sets so approaches that focus on more difficult ex- amples were explored. We found that selecting duplicates and non duplicates from documents with similar titles pro- duced more challenging datasets. Additionally we estab- lished that a Solr-based deduplication system can achieve a similar deduplication quality to the fingerprint-based sys- tem currently employed. Finally, we introduce a large scale deduplication ground truth dataset that we hope will be useful to others tackling deduplication.},
+  Doi                      = {10.1145/2254129.2254153},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Hammerton et al. - 2012 - On generating large-scale ground truth datasets for the deduplication of bibliographic records.pdf:pdf},
+  ISBN                     = {9781450309158},
+  Keywords                 = {TEAM Publication,near duplicate detection,similarity search,test data},
+  Mendeley-tags            = {TEAM Publication,near duplicate detection,similarity search,test data},
+  Url                      = {http://dl.acm.org/citation.cfm?doid=2254129.2254153}
+}
+
+@InProceedings{Helic2012,
+  Title                    = {Navigational efficiency of broad vs. narrow folksonomies},
+  Author                   = {Helic, Denis and K\"{o}rner, Christian and Granitzer, Michael and Strohmaier, Markus and Trattner, Christoph},
+  Booktitle                = {Proceedings of the 23rd ACM conference on Hypertext and social media - HT '12},
+  Year                     = {2012},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {63},
+  Publisher                = {ACM Press},
+
+  Abstract                 = {Although many social tagging systems share a common tri- partite graph structure, the collaborative processes that are generating these structures can differ significantly. For ex- ample, while resources on Delicious are usually tagged by all users who bookmark the web page cnn.com, photos on Flickr are usually tagged just by a single user who uploads the photo. In the literature, this distinction has been described as a distinction between broad vs. narrow folksonomies. This paper sets out to explore navigational differences be- tween broad and narrow folksonomies in social hypertextual systems. We study both kinds of folksonomies on a dataset provided by Mendeley - a collaborative platform where users can annotate and organize scientific articles with tags. Our experiments suggest that broad folksonomies are more use- ful for navigation, and that the collaborative processes that are generating folksonomies matter qualitatively. Our find- ings are relevant for system designers and engineers aiming to improve the navigability of social tagging systems.},
+  Doi                      = {10.1145/2309996.2310008},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Helic et al. - 2012 - Navigational efficiency of broad vs. narrow folksonomies.pdf:pdf},
+  ISBN                     = {9781450313353},
+  Keywords                 = {folksonomy,keywords,navigation,tags},
+  Url                      = {http://dl.acm.org/citation.cfm?doid=2309996.2310008}
+}
+
+@Article{Jack2012,
+  Title                    = {Mendeley's Open Data for Science and Learning: A Reply to the DataTEL Challenge},
+  Author                   = {Jack, Kris and Hristakeva, Maya and {Garcia De Zuniga}, Rosario and Granitzer, Michael},
+  Journal                  = {Special issue of Datasets and Data Supported Learning in TechnologyEnhanced Learning in International Journal of Technology Enhanced Learning},
+  Year                     = {2012},
+
+  Abstract                 = {In this paper, two open access data sources, provided by Mendeley Ltd., are described in detail. The first data source is a snapshot of 50,000 user libraries, enabling researchers to test collaborative filtering algorithms for scientific paper recommendation. The second data source is Mendeleys API that provides access to 50 million research articles, crowdsourced from over 1.5 million users. This API allows researchers to build third party applications on top of real-time and large scale data. By providing data sources for the study of collaborative filtering, metadata extraction, deduplication and related research, Mendeley hopes to enable researchers in these domains to better collaborate and share knowledge, ultimately encouraging good research practices and advancing the state of scientific knowledge.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Jack et al. - 2012 - Mendeley's Open Data for Science and Learning A Reply to the DataTEL Challenge.pdf:pdf},
+  Keywords                 = {data sets,datatel,digital libraries,mendeley,recommender systems}
+}
+
+@Article{Kern2012a,
+  Title                    = {TeamBeam - Meta-Data Extraction from Scientific Literature},
+  Author                   = {Kern, Roman and Jack, Kris and Granitzer, Michael and Hristakeva, Maya},
+  Journal                  = {DLib Magazine},
+  Year                     = {2012},
+  Number                   = {7/8},
+  Volume                   = {18},
+
+  Abstract                 = {An important aspect of the work of researchers as well as librarians is to manage collections of scientific literature. Social research networks, such as Mendeley and CiteULike, provide services that support this task. Meta-data plays an important role in providing services to retrieve and organise the articles. In such settings, meta-data is rarely explicitly provided, leading to the need for automatically extracting this valuable information. The TeamBeam algorithm analyses a scientific article and extracts structured meta-data, such as the title, journal name and abstract, as well as information about the article's authors (e.g. names, e-mail addresses, affiliations). The input of the algorithm is a set of blocks generated from the article text. A classification algorithm, which takes the sequence of the input into account, is then applied in two consecutive phases. In the evaluation of the algorithm, its performance is compared against two heuristics and three existing meta-data extraction systems. Three different data sets with varying characteristics are used to assess the quality of the extraction results. TeamBeam performs well under testing and compares favourably with existing approaches.},
+  Doi                      = {10.1045/july2012-kern},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kern et al. - 2012 - TeamBeam - Meta-Data Extraction from Scientific Literature.pdf:pdf},
+  Url                      = {http://www.dlib.org/dlib/july12/kern/07kern.html}
+}
+
+@InProceedings{Kraker2012,
+  Title                    = {Harnessing user library statistics for research evaluation and knowledge domain visualization},
+  Author                   = {Kraker, Peter and K\"{o}rner, Christian and Jack, Kris and Granitzer, Michael},
+  Booktitle                = {Proceedings of the 21st international conference companion on World Wide Web - WWW '12 Companion},
+  Year                     = {2012},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {1017},
+  Publisher                = {ACM Press},
+
+  Abstract                 = {Social reference management systems provide a wealth of in- formation that can be used for the analysis of science. In this paper, we examine whether user library statistics can pro- duce meaningful results with regards to science evaluation and knowledge domain visualization. We are conducting two empirical studies, using a sample of library data from Mendeley, the world’s largest social reference management system. Based on the occurrence of references in users’ li- braries, we perform a large-scale impact factor analysis and an exploratory co-readership analysis. Our preliminary find- ings indicate that the analysis of user library statistics can produce accurate, timely, and content-rich results. We find that there is a significant relationship between the impact factor and the occurrence of references in libraries. Using a knowledge domain visualization based on co-occurrence measures, we are able to identify two areas of topics within the emerging field of technology-enhanced learning.},
+  Doi                      = {10.1145/2187980.2188236},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kraker et al. - 2012 - Harnessing user library statistics for research evaluation and knowledge domain visualization(2).pdf:pdf},
+  ISBN                     = {9781450312301},
+  Keywords                 = {TEAM Publication,impact factors,networks,quantitative analysis,readership,science mapping,sesam,social reference management,user library statistics},
+  Mendeley-tags            = {TEAM Publication,sesam},
+  Url                      = {http://know-center.tugraz.at/download\_extern/papers/user\_library\_statistics.pdf http://dl.acm.org/citation.cfm?doid=2187980.2188236}
+}
+
+@InProceedings{Lex2012,
+  Title                    = {Measuring the quality of web content using factual information},
+  Author                   = {Lex, Elisabeth and Voelske, Michael and Errecalde, Marcelo and Ferretti, Edgardo and Cagnina, Leticia and Horn, Christopher and Stein, Benno and Granitzer, Michael},
+  Booktitle                = {Proceedings of the 2nd Joint WICOW/AIRWeb Workshop on Web Quality - WebQuality '12},
+  Year                     = {2012},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {7},
+  Publisher                = {ACM Press},
+
+  Doi                      = {10.1145/2184305.2184308},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex et al. - 2012 - Measuring the quality of web content using factual information.pdf:pdf},
+  ISBN                     = {9781450312370},
+  Url                      = {http://dl.acm.org/citation.cfm?doid=2184305.2184308}
+}
+
+@InProceedings{Luberg2012a,
+  Title                    = {Information retrieval and deduplication for tourism recommender sightsplanner},
+  Author                   = {Luberg, Ago and Granitzer, Michael and Wu, Honghan and J\"{a}rv, Priit and Tammet, Tanel},
+  Booktitle                = {Proceedings of the 2nd International Conference on Web Intelligence, Mining and Semantics - WIMS '12},
+  Year                     = {2012},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {1},
+  Publisher                = {ACM Press},
+
+  Doi                      = {10.1145/2254129.2254191},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Luberg et al. - 2012 - Information retrieval and deduplication for tourism recommender sightsplanner.pdf:pdf},
+  ISBN                     = {9781450309158},
+  Url                      = {http://dl.acm.org/citation.cfm?doid=2254129.2254191}
+}
+
+@Misc{MutluHoeflerGranitzerSabol2012,
+  Title                    = {D 4.1 - Semantic Descriptions for Visual Analytics Components},
+
+  Author                   = {Mutlu, Belgin and Hoefler, Patrick and Granitzer, Michael and Sabol, Vedran},
+  Year                     = {2012},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Mutlu et al. - 2012 - D 4.1 - Semantic Descriptions for Visual Analytics Components.pdf:pdf},
+  Keywords                 = {linked,owl,rdf,semantic descriptions,visual analytics,visualizations},
+  Pages                    = {1--53},
+  Publisher                = {CODE Project Deliverable}
+}
+
+@InProceedings{Sabol2012,
+  Title                    = {Visual Ontology Alignment System – An Evaluation},
+  Author                   = {Sabol, V and Kow, W O and Rauch, M and Ulbrich, E and Seifert, C and Granitzer, M and Lukose, D},
+  Booktitle                = {Proceedings of SIGRAD 2012, Interactive Visual Analysis of Data},
+  Year                     = {2012},
+
+  Address                  = {V\"{a}xj\"{o}, Sweden},
+  Pages                    = {9--18},
+  Publisher                = {Link\"{o}ping University Electronic Press, Link\"{o}pings universitet},
+
+  Abstract                 = {Ontology alignment is the process of mapping related concepts from different ontologies. A lot of research effort has been invested in development of algorithmic methods supporting automatic discovery of mappings between ontological concepts. However, automatic alignment remains potentially prone to errors especially with large real-world ontologies, demanding intervention of domain experts. We therefore created a semi-automatic tool including algorithmic alignment methods and an interactive visual interface. Visualisation components included in the interface support experts in navigating the concept space and reviewing the automatically generated mapping suggestions. An experiment with 15 test users was performed to evaluate whether, and in which cases the use of visualisation is beneficial compared to a user interface employing standard GUI widgets. The results indicate that users typically executed tasks slightly faster with an interface using standard widgets, but an interface which includes a visualisation component providing overview, filter and narrowing-down functionality achieved higher rates of successful task completion.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Sabol et al. - 2012 - Visual Ontology Alignment System – An Evaluation.pdf:pdf},
+  Url                      = {http://www.ep.liu.se/ecp\_article/index.en.aspx?issue=081;article=003}
+}
+
+@InProceedings{Schoefegger2012,
+  Title                    = {Overview and Analysis of Personal and Social Tagging Context to construct User Models},
+  Author                   = {Schoefegger, Karin and Granitzer, Michael},
+  Booktitle                = {CaRR '12 Proceedings of the 2nd Workshop on Context-awareness in Retrieval and Recommendation},
+  Year                     = {2012},
+  Pages                    = {14--21},
+  Publisher                = {ACM, New York, NY},
+
+  Abstract                 = {The quality and user acceptance of personalized services such as personalized information retrieval and navigation or con- tent recommendation depends depends besides the personal- ization mechanism on the quality, validity and accuracy of the employed user model. In literature a variety of user model construction methods based on tagging activity in social tag- ging systems (STS) are presented, relying on different user contexts, e.g., the personal or social context. But up to now there is neither a concise overview of existing construction methods available nor a deeper analysis and discussion of the differences between these models. Such an analysis would for example ease evaluation but also enable system design- ers to choose the most appropriate one. Our work tackles this problem by providing a short overview of state-of-the art user model construction methods which employ social tags. This is followed by a statistical comparison of four different user model construction methods for STS based on tag-frequency. This analysis unveils that depending on the method chosen (based user’s personal tagging behavior as well as community- based social strategies), the user model consists of different tags and tag frequency rankings, thus services employing dif- ferent models will lead to different results.},
+  Doi                      = {http://dx.doi.org/10.1145/2162102.2162106},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Schoefegger, Granitzer - 2012 - Overview and Analysis of Personal and Social Tagging Context to construct User Models.pdf:pdf},
+  ISBN                     = {9781450311922},
+  Keywords                 = {TEAM Publication,User Modeling},
+  Mendeley-tags            = {TEAM Publication,User Modeling}
+}
+
+@InProceedings{Schofegger2012,
+  Title                    = {Learning user characteristics from social tagging behavior},
+  Author                   = {Sch\"{o}fegger, Karin and K\"{o}rner, Christian and Singer, Philipp and Granitzer, Michael},
+  Booktitle                = {Proceedings of the 23rd ACM conference on Hypertext and social media - HT '12},
+  Year                     = {2012},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {207},
+  Publisher                = {ACM Press},
+
+  Doi                      = {10.1145/2309996.2310031},
+  ISBN                     = {9781450313353},
+  Keywords                 = {social software,tagging,user background},
+  Url                      = {http://dl.acm.org/citation.cfm?doid=2309996.2310031}
+}
+
+@InProceedings{Syed2012,
+  Title                    = {Dynamic Topography Information Landscapes – An Incremental Approach to Visual Knowledge Discovery},
+  Author                   = {Syed, Kamran A.A. and Kroell, Mark and Sabol, Vedran and Scharl, Arno and Gindl, Stefan and Granitzer, Michael and Weichselbraun, Albert},
+  Booktitle                = {Proceedings of the 14th International Conference on Data Warehousing and Knowledge Discovery (DaWaK 2012).},
+  Year                     = {2012},
+  Pages                    = {352--363},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Syed et al. - 2012 - Dynamic Topography Information Landscapes – An Incremental Approach to Visual Knowledge Discovery.pdf:pdf},
+  Keywords                 = {incremental clus-,information landscape,information visualization,multi-dimensional scaling,tering},
+  Url                      = {http://www.springerlink.com/index/R22J746208384828.pdf}
+}
+
+@Book{DeclerckT.;GranitzerM.;GrzegorzekM.;RomanelliM.;RugerS.;Sintek2011,
+  Title                    = {Semantic Multimedia - 5th International Conference on Semantic and Digital Media Technologies, SAMT 2010},
+  Editor                   = {{Declerck, T.; Granitzer, M.; Grzegorzek, M.; Romanelli, M.; R\"{u}ger, S.; Sintek}, M. (Eds.)},
+  Publisher                = {Springer Berlin / Heidelberg},
+  Year                     = {2011},
+
+  Address                  = {Saarbr\"{u}cken, Germany},
+
+  ISBN                     = {ISBN 978-3-642-23016-5},
+  Pages                    = {195}
+}
+
+@Misc{Granitzer2011,
+  Title                    = {Presentation@TIR'11: Model Selection Strategies for Author Disambiguation},
+
+  Author                   = {Granitzer, Michael},
+  Year                     = {2011},
+
+  Abstract                 = {Presentation on Model Selection given at the TIR 11 workshop in Toulouse},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer - 2011 - Presentation@TIR'11 Model Selection Strategies for Author Disambiguation.pdf:pdf},
+  Number                   = {August}
+}
+
+@Article{Granitzer2011a,
+  Title                    = {Web 2.0: Applications and Mechanisms},
+  Author                   = {Granitzer, Michael and Lindstaedt, Stefanie N},
+  Journal                  = {Journal of Universal Computer Science},
+  Year                     = {2011},
+  Number                   = {4},
+  Pages                    = {513--514},
+  Volume                   = {17},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer, Lindstaedt - 2011 - Web 2.0 Applications and Mechanisms.pdf:pdf},
+  Keywords                 = {Special Issue},
+  Url                      = {http://www.jucs.org/jucs\_17\_04/web20\_applications\_and\_mechanisms}
+}
+
+@Article{Granitzer2011b,
+  Title                    = {Semantic Web: Theory and Applications},
+  Author                   = {Granitzer, Michael and Lindstaedt, Stefanie N},
+  Journal                  = {Journal of Universal Computer Science},
+  Year                     = {2011},
+  Number                   = {7},
+  Pages                    = {981----982},
+  Volume                   = {17},
+
+  Keywords                 = {I-Know,Special Issue},
+  Mendeley-tags            = {I-Know,Special Issue},
+  Url                      = {http://www.jucs.org/jucs\_17\_4/web20\_applications\_and\_mechanisms/abstract.html}
+}
+
+@Article{Granitzer2011c,
+  Title                    = {Knowledge Work : Knowledge Worker Productivity , Collaboration and User Support},
+  Author                   = {Granitzer, Michael and Lindstaedt, Stefanie},
+  Journal                  = {J.UCS - Journal of Universal Computer Science},
+  Year                     = {2011},
+  Number                   = {10},
+  Pages                    = {1365--1366},
+  Volume                   = {17},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer, Lindstaedt - 2011 - Knowledge Work Knowledge Worker Productivity , Collaboration and User Support.pdf:pdf},
+  Url                      = {http://www.jucs.org/jucs\_17\_10/knowledge\_work\_knowledge\_worker}
+}
+
+@Article{Granitzer2011d,
+  Title                    = {Know-Center – \"{O}sterreichs Kompetenzzentrum f\"{u}r Wissensmanagement und Wissenstechnologien},
+  Author                   = {Granitzer, Michael},
+  Journal                  = {TU Graz research},
+  Year                     = {2011},
+  Pages                    = {26.26},
+
+  Url                      = {http://portal.tugraz.at/portal/page/portal/Files/BDR/Oeffentlichkeit/Zeitschriften/research\_5\_2011.pdf}
+}
+
+@Article{Granitzer2011e,
+  Title                    = {Bibliotheksgespr\"{a}ch - Future Internet und die Bibliotheskwelt},
+  Author                   = {Granitzer, Michael and Tochtermann, Klaus},
+  Journal                  = {Zeitschrift f\"{u}r Bibliothekswesen und Bibliographie},
+  Year                     = {2011},
+  Pages                    = {324--328},
+  Volume                   = {6}
+}
+
+@InProceedings{Horn2011,
+  Title                    = {Who Tweets: Detecting User Types and Tweet Quality using Supervised Classification},
+  Author                   = {Horn, Christopher and Lex, Elisabeth and Granitzer, Michael},
+  Booktitle                = {IADIS European Conference on Data Mining 2011},
+  Year                     = {2011},
+
+  Keywords                 = {Categories: H.3.3 Information filtering,H.2.8 Data mining,I.5.2 Feature evaluation and selection}
+}
+
+@InProceedings{Horn2011a,
+  Title                    = {Realtime Ad Hoc Search in Twitter: Know-Center at TREC Microblog Track 2011},
+  Author                   = {Horn, Christopher and Pimas, Oliver and Granitzer, Michael},
+  Booktitle                = {Proceedings of TREC 2011},
+  Year                     = {2011},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Horn, Pimas, Granitzer - 2011 - Realtime Ad Hoc Search in Twitter Know-Center at TREC Microblog Track 2011.pdf:pdf},
+  Url                      = {http://59.64.138.216/wp-content/uploads/2011/TREC2011/notebook.papers/knowcenter.microblog.pdf}
+}
+
+@InProceedings{Kern2011,
+  Title                    = {Model Selection Strategies for Author Disambiguation},
+  Author                   = {Kern, Roman and Zechner, Mario and Granitzer, Michael},
+  Booktitle                = {IEEE Computer Society: 8th International Workshop on Text-based Information Retrieval in Procceedings of 22th International Workshop on Database and Expert Systems Applications},
+  Year                     = {2011},
+
+  Address                  = {Toulouse, France},
+  Pages                    = {155--160},
+  Publisher                = {IEEE Computer Society},
+
+  Abstract                 = {Author disambiguation is a prerequisite for utilizing bibliographic metadata in citation analysis. Automatic disambiguation algorithms mostly rely on cluster-based disam- biguation strategies for identifying unique authors given their names and publications. However, most approaches rely on knowing the correct number of unique authors a-priori, which is rarely the case in real world settings. In this publication we analyse cluster-based disambiguation strategies and develop a model selection method to estimate the number of distinct authors based on co-authorship networks. We show that, given clean textual features, the developed model selection method provides accurate guesses of the number of unique authors.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kern, Zechner, Granitzer - 2011 - Model Selection Strategies for Author Disambiguation.pdf:pdf},
+  Keywords                 = {-author disambiguation,Author Disambiguation,Clustering,K-guessing,Model Selection,experiments and,model selection,selection afterwards,we end with detailed},
+  Mendeley-tags            = {Author Disambiguation,Clustering,K-guessing,Model Selection}
+}
+
+@Article{Kern2011a,
+  Title                    = {A hybrid system for German encyclopedia alignment},
+  Author                   = {Kern, Roman and Seifert, Christin and Granitzer, Michael},
+  Journal                  = {International Journal on Digital Libraries},
+  Year                     = {2011},
+
+  Month                    = sep,
+  Number                   = {2},
+  Pages                    = {75--89},
+  Volume                   = {11},
+
+  Doi                      = {10.1007/s00799-011-0069-5},
+  ISSN                     = {1432-5012},
+  Url                      = {http://www.springerlink.com/index/10.1007/s00799-011-0069-5}
+}
+
+@InProceedings{Kern2011b,
+  Title                    = {Vote/Veto Meta-Classifier for Authorship Identification},
+  Author                   = {Kern, Roman and Seifert, Christin and Zechner, Mario and Granitzer, Michael},
+  Booktitle                = {CLEF (Notebook Papers/Labs/Workshop)},
+  Year                     = {2011},
+  Editor                   = {{Petras, Vivien and Forner, Pamela and Clough}, Paul D.},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kern et al. - 2011 - VoteVeto Meta-Classifier for Authorship Identification.pdf:pdf},
+  Url                      = {http://clef2011.org/resources/proceedings/Kern\_Clef2011.pdf}
+}
+
+@InProceedings{Kow,
+  Title                    = {A Visual SOA-based Ontology Alignment Tool},
+  Author                   = {Kow, WO and Sabol, Vedran and Granitzer, Michael and Kienrich, Wolfgang},
+  Booktitle                = {Proceedings of the Sixth International Workshop on Ontology Matching (OM-2011)},
+  Year                     = {2011},
+  Editor                   = {Shvaiko, Pavel and Euzenat, J\'{e}r\^{o}me and Heath, Tom and Quix, Christoph and Mao, Ming and Cruz, Isabel},
+  Pages                    = {2--3},
+  Publisher                = {CEUR-WS Vol-814},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kow et al. - 2011 - A Visual SOA-based Ontology Alignment Tool.pdf:pdf},
+  Url                      = {http://disi.unitn.it/~p2p/OM-2011/om2011\_poster4.pdf}
+}
+
+@Book{Lindstaedt,
+  Title                    = {Proceedings of the 11th International Conference on Knowledge Management and Knowledge Technologies},
+  Editor                   = {Lindstaedt, Stefanie and Granitzer, Michael},
+  Publisher                = {ACM New York, NY, USA},
+  Year                     = {2011},
+
+  Address                  = {Graz, Austria},
+
+  Abstract                 = {The i-KNOW 2011, organized by Know-Center GmbH and Graz University of Technology, is the 11th conference of a very successful conference series on knowledge management and knowledge technologies. Since its inception in 2001, the International Conference on Knowledge Management and Knowledge Technologies (i-KNOW) has grown into an internationally visible and highly acknowledged event. Over 500 participants attend the conference every year.},
+  ISBN                     = {978-1-4503-0732-1}
+}
+
+@Misc{Michael2011,
+  Title                    = {Results and Raw Experimental Data on the E-Prints Data Set for A Comparison of Metadata Extraction Techniques for Crowed-source Bibliographic Metadata Management},
+
+  Author                   = {Michael, Granitzer},
+  Year                     = {2011},
+
+  Abstract                 = {Results for Metadata Extraction on the Eprints data set crawled from the web for ParCit, the Mendeley Client and a Layout based CRF. Metadata is considered bot be similar if the extracted string and the metadata string has a levensthein distance of 0.7 - ParScit is the ParScit framework based on PDF Box Preprocessed Text - MendeleyXMP + SVM uses XMP Metadata and falls back to regular expressions, while MendeleySVM just relies on the SVM - OrFo* Methods represent a conditional Random Field trained on several Layout Features(Or=Orthographic, Fo=Font Properites, Po = Position Properties and TE= Textproperties).},
+  Address                  = {London},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Michael - 2011 - Results and Raw Experimental Data on the E-Prints Data Set for A Comparison of Metadata Extraction Techniques for Crow.xlsx:xlsx},
+  Keywords                 = {TEAM Publication,experimental results,test data},
+  Mendeley-tags            = {TEAM Publication,experimental results,test data},
+  Publisher                = {Mendeley}
+}
+
+@InProceedings{Seifert2011,
+  Title                    = {Visualizing Text Classification Models with Voronoi Word Clouds},
+  Author                   = {Seifert, Christin and Kienreich, Wolfgang and Granitzer, Michael},
+  Booktitle                = {Proceedings 15th International Conference Information Visualisation (IV)},
+  Year                     = {2011},
+
+  Address                  = {London, UK},
+  Publisher                = {IEEE Computer Society Press},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Seifert, Kienreich, Granitzer - 2011 - Visualizing Text Classification Models with Voronoi Word Clouds.pdf:pdf}
+}
+
+@InProceedings{Seifert2011a,
+  Title                    = {Word Clouds for Efficient Document Labeling},
+  Author                   = {Seifert, Christin and Ulbrich, Eva and Granitzer, Michael},
+  Booktitle                = {The Fourteenth International Conference on Discovery Science (DS 2011)},
+  Year                     = {2011},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Seifert, Ulbrich, Granitzer - 2011 - Word Clouds for Efficient Document Labeling.pdf:pdf},
+  Keywords                 = {doc-,document annotation,text classification,ument labeling,user interface,visualization,word clouds}
+}
+
+@Article{561,
+  Title                    = {Semantically enhanced Software Documentation Processes},
+  Author                   = {{Klieber W.}, Granitzer M Gaisbauer M Tochtermann K},
+  Journal                  = {Journal},
+  Year                     = {2010},
+  Number                   = {2},
+  Pages                    = {243--263},
+  Volume                   = {4},
+
+  Url                      = {http://www.math.bas.bg/serdicajcomputing/Volume 4-2.pdf}
+}
+
+@InProceedings{G.2010,
+  Title                    = {Wissensmanagement in EBM},
+  Author                   = {G., Lirk and M., Granitzer and A., S\"{o}nnichsen and P., Kulczycki},
+  Booktitle                = {EbM – ein Gewinn f\"{u}r die Arzt-Patient-Beziehung?. Forum Medizin 21 der Paracelsus Medizinischen Privatuniversit\"{a}t \& 11. EbM-Jahrestagung des Deutschen Netzwerks Evidenzbasierte Medizin},
+  Year                     = {2010},
+
+  Address                  = {D\"{u}sseldorf},
+  Publisher                = {German Medical Science GMS Publishing House},
+
+  Doi                      = {10.3205/10ebm113},
+  Keywords                 = {URN: urn:nbn:de:0183-10ebm1130}
+}
+
+@InProceedings{Granitzer2010,
+  Title                    = {Adaptive Term Weighting through Stochastic Optimization},
+  Author                   = {Granitzer, Michael},
+  Booktitle                = {Computational Linguistics and Intelligent Text Processing},
+  Year                     = {2010},
+
+  Address                  = {Berlin, Heidelberg},
+  Editor                   = {Gelbukh, Alexander},
+  Pages                    = {614--626},
+  Publisher                = {Springer Berlin Heidelberg},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {6008},
+
+  Abstract                 = {Term weighting strongly influences the performance of text mining and information retrieval approaches. Usually term weights
+ are determined through statistical estimates based on static weighting schemes. Such static approaches lack the capability
+ to generalize to different domains and different data sets. In this paper, we introduce an on-line learning method for adapting
+ term weights in a supervised manner. Via stochastic optimization we determine a linear transformation of the term space to
+ approximate expected similarity values among documents. We evaluate our approach on 18 standard text data sets and show that
+ the performance improvement of a k-NN classifier ranges between 1\% and 12\% by using adaptive term weighting as preprocessing
+ step. Further, we provide empirical evidence that our approach is efficient to cope with larger problems.},
+  Doi                      = {10.1007/978-3-642-12116-6},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer - 2010 - Adaptive Term Weighting through Stochastic Optimization.pdf:pdf},
+  ISBN                     = {978-3-642-12115-9},
+  Url                      = {http://www.springerlink.com/content/8177827155v0762v}
+}
+
+@Misc{Granitzer2010a,
+  Title                    = {Enterprise Search},
+
+  Author                   = {Granitzer, Michael},
+  Year                     = {2010},
+
+  Booktitle                = {Lexikon der Bibliotheks- und Informationswissenschaft},
+  Editor                   = {Umlauf, Konrad and Gradmann, Stefan},
+  Publisher                = {Hiersemann Verlag},
+  Url                      = {http://www.ib.hu-berlin.de/~kumlau/LBI\_1.Lieferung\_U1-U4.pdf}
+}
+
+@Article{Granitzer2010b,
+  Title                    = {Ontology Alignment—A Survey with Focus on Visually Supported Semi-Automatic Techniques},
+  Author                   = {Granitzer, Michael and Sabol, Vedran and Onn, Kow Weng and Lukose, Dickson and Tochtermann, Klaus},
+  Journal                  = {Future Internet},
+  Year                     = {2010},
+
+  Month                    = aug,
+  Number                   = {3},
+  Pages                    = {238--258},
+  Volume                   = {2},
+
+  Abstract                 = {Semantic technologies are of paramount importance to the future Internet. The reuse and integration of semantically described resources, such as data or services, necessitates the bringing of ontologies into mutual agreement. Ontology alignment deals with the discovery of correspondences between concepts and relations from different ontologies. Alignment provides the key ingredient to semantic interoperability. This paper gives an overview on the state of the art in the field of visually supported semi-automatic alignment techniques and presents recent trends and developments. Particular attention is given to user interfaces and visualization techniques supporting involvement of humans in the alignment process. We derive and summarize requirements for visual semi-automatic alignment systems, provide an overview of existing approaches, and discuss the possibilities for further improvements and future research.},
+  Doi                      = {10.3390/fi2030238},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2010 - Ontology Alignment—A Survey with Focus on Visually Supported Semi-Automatic Techniques.pdf:pdf},
+  ISSN                     = {1999-5903},
+  Keywords                 = {information visualization,ontology alignment,semantic technologies,visual analytics},
+  Url                      = {http://www.mdpi.com/1999-5903/2/3/238/}
+}
+
+@TechReport{Granitzer2010c,
+  Title                    = {Visual Analyses on Linked Data – An Opportunity for both Fields},
+  Author                   = {Granitzer, Michael and Sabol, Vedran and Kienreich, Wolfgang and Lukose, Dickson and Onn, Kow Weng},
+  Year                     = {2010},
+
+  Address                  = {Riga, Latvia},
+
+  Booktitle                = {The 2011 STI Semantic Summit},
+  Doi                      = {10.1007/978-3-642-01172-6.},
+  Editor                   = {STI},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2010 - Visual Analyses on Linked Data – An Opportunity for both Fields.pdf:pdf}
+}
+
+@InProceedings{Kern2010,
+  Title                    = {KCDC: Word Sense Induction by Using Grammatical Dependencies and Sentence Phrase Structure},
+  Author                   = {Kern, Roman and Muhr, M and Granitzer, M},
+  Booktitle                = {ACL Workshops, Proceedings of the 5th International Workshop on Semantic Evaluation},
+  Year                     = {2010},
+
+  Address                  = {Los Angeles, California},
+  Number                   = {July},
+  Pages                    = {351--354},
+  Publisher                = {Association for Computational Linguistics},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kern, Muhr, Granitzer - 2010 - KCDC Word Sense Induction by Using Grammatical Dependencies and Sentence Phrase Structure.pdf:pdf},
+  Url                      = {http://journal.mercubuana.ac.id/data/S10-1078.pdf}
+}
+
+@InProceedings{Kern2010a,
+  Title                    = {German Encyclopedia Alignment Based on Information Retrieval Techniques},
+  Author                   = {Kern, Roman and Granitzer, Michael},
+  Booktitle                = {Research and Advanced Technology for Digital Libraries, Lecture Notes in Computer Science},
+  Year                     = {2010},
+
+  Address                  = {Springer Berlin / Heidelberg},
+  Editor                   = {{Lalmas, Mounia And Jose, Joemon And Rauber, Andreas And Sebastiani, Fabrizio And Frommholz}, Ingo},
+  Pages                    = {315--326},
+
+  Doi                      = {http://dx.doi.org/10.1007/978-3-642-15464-5\_32},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kern, Granitzer - 2010 - German Encyclopedia Alignment Based on Information Retrieval Techniques.pdf:pdf},
+  Url                      = {http://www.springerlink.com/index/YN65Q60U32070508.pdf}
+}
+
+@InProceedings{Lanthaler2010,
+  Title                    = {Semantic Web Services: State of the Art},
+  Author                   = {Lanthaler, Markus and Granitzer, Michael and G\"{u}tl, Christian},
+  Booktitle                = {Proceeding of the IADIS International Conference on Internet Technologies \& Society 2010},
+  Year                     = {2010},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lanthaler, Granitzer, G\"{u}tl - 2010 - Semantic Web Services State of the Art.pdf:pdf},
+  Keywords                 = {Internet,PhD,Web 2.0,Web 3.0,autonomic computing,rest,semantic Web services,semantic web,service composition,service discovery,service orchestration and choreography,soa,web services},
+  Url                      = {http://www.its-conf.org/ITS\_2010\_Final\_Program.pdf}
+}
+
+@InProceedings{Lex2010,
+  Title                    = {Objectivity classification in online media},
+  Author                   = {Lex, Elisabeth and Juffinger, Andreas and Granitzer, Michael},
+  Booktitle                = {Proceedings of the 21st ACM conference on Hypertext and hypermedia},
+  Year                     = {2010},
+
+  Address                  = {Toronto, Canada},
+  Pages                    = {293--294},
+  Publisher                = {ACM New York, NY, USA},
+
+  Abstract                 = {In this work, we assess objectivity in online news media. We propose to use topic independent features and we show in a cross-domain experiment that with standard bag-of-word models, classifiers implicitly learn topics. Our experiments revealed that our methodology can be applied across different topics with consistent classification performance.},
+  Keywords                 = {classification,objectivity,online news media},
+  Url                      = {http://portal.acm.org/citation.cfm?id=1810681}
+}
+
+@Article{Lex2010a,
+  Title                    = {Efficient Cross-Domain Classification of Weblogs},
+  Author                   = {Lex, Elisabeth and Seifert, Christin and Juffinger, Andreas and Granitzer, Michael},
+  Journal                  = {International Journal of Intelligent Computing Research},
+  Year                     = {2010},
+  Number                   = {1},
+  Volume                   = {1},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex et al. - 2010 - Efficient Cross-Domain Classification of Weblogs.pdf:pdf}
+}
+
+@InProceedings{Lex2010b,
+  Title                    = {A Comparison of Stylometric and Lexical Features for Web Genre Classification and Emotion Classification in Blogs},
+  Author                   = {Lex, Elisabeth and Juffinger, Andreas and Granitzer, Michael},
+  Booktitle                = {Database and Expert Systems Applications, DEXA, International Workshops},
+  Year                     = {2010},
+
+  Address                  = {Bilbao, Spain},
+  Editor                   = {Tjoa, Min A and Wagner, Roland},
+  Pages                    = {10--14},
+  Publisher                = {IEEE Computer Society},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex, Juffinger, Granitzer - 2010 - A Comparison of Stylometric and Lexical Features for Web Genre Classification and Emotion Classificat.pdf:pdf},
+  Keywords                 = {-document classification,blogs from the rest,data mining,features,our contribution is therefore,shallow text feature,stylometric,to separate news related,we apply lexical versus}
+}
+
+@InProceedings{Lex2010c,
+  Title                    = {Stylometric Features for Emotion Level Classification in News Related Blogs},
+  Author                   = {Lex, Elisabeth and Granitzer, Michael and Muhr, Markus and Juffinger, Andreas},
+  Booktitle                = {Proceedings of the 9th ACM RIAO Conference},
+  Year                     = {2010}
+}
+
+@InProceedings{Michael2010,
+  Title                    = {Semantische Technologien: Stand der Forschung und Visionen},
+  Author                   = {Michael, Granitzer and Wolfgang, Kienreich},
+  Booktitle                = {Internationales Rechtsinformatik Symposion (IRIS 10)},
+  Year                     = {2010},
+
+  Address                  = {Salzburg},
+  Editor                   = {Schweighofer, Erich and Geist, Anton and Staufer, Ines},
+  Publisher                = {OCG},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Michael, Wolfgang - 2010 - Semantische Technologien Stand der Forschung und Visionen.doc:doc},
+  Url                      = {http://www.univie.ac.at/RI/IRIS2010/}
+}
+
+@InProceedings{Muhr2010,
+  Title                    = {Scalable Recursive Top-Down Hierarchical Clustering Approach with implicit Model Selection for Textual Data Sets},
+  Author                   = {Muhr, Markus and Sabol, Vedran and Granitzer, Michael},
+  Booktitle                = {Database and Expert Systems Applications, DEXA, International Workshops},
+  Year                     = {2010},
+
+  Address                  = {Bilbao, Spain},
+  Editor                   = {Tjoa, Min A and Wagner, Roland},
+  Pages                    = {15--19},
+  Publisher                = {IEEE Computer Society},
+
+  Doi                      = {978-0-7695-4174-7},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Muhr, Sabol, Granitzer - 2010 - Scalable Recursive Top-Down Hierarchical Clustering Approach with implicit Model Selection for Textual D.pdf:pdf},
+  Keywords                 = {-topic hierarchy,growing k-means,landscape,model selection,vector space model}
+}
+
+@InProceedings{Muhr2010a,
+  Title                    = {External and Intrinsic Plagiarism Detection using a Cross-Lingual Retrieval and Segmentation System Lab Report for PAN at CLEF 2010},
+  Author                   = {Muhr, Markus and Kern, Roman and Zechner, Mario and Granitzer, Michael},
+  Booktitle                = {CLEF (Notebook Papers/LABs/Workshops)},
+  Year                     = {2010},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Muhr et al. - 2010 - External and Intrinsic Plagiarism Detection using a Cross-Lingual Retrieval and Segmentation System Lab Report for.pdf:pdf},
+  Url                      = {http://www.informatik.uni-trier.de/~ley/db/conf/clef/clef2010w.html\#MuhrKZG10}
+}
+
+@InProceedings{MuhrKernGranitzer10Clusterlabelling,
+  Title                    = {Analysis of structural relationships for hierarchical cluster labeling},
+  Author                   = {Muhr, Markus and Kern, Roman and Granitzer, Michael},
+  Booktitle                = {Proceeding of the 33rd international ACM SIGIR Conference on Research and Development in information Retrieval},
+  Year                     = {2010},
+
+  Address                  = {Geneva, Switzerland, July 19-23},
+  Pages                    = {178--185},
+  Publisher                = {ACM, New York, NY},
+
+  Abstract                 = {Cluster label quality is crucial for browsing topic hierarchies obtained via document clustering. Intuitively, the hierarchi- cal structure should influence the labeling accuracy. How- ever, most labeling algorithms ignore such structural prop- erties and therefore, the impact of hierarchical structures on the labeling accuracy is yet unclear. In our work we integrate hierarchical information, i.e. sibling and parent- child relations, in the cluster labeling process. We adapt standard labeling approaches, namely Maximum Term Fre- quency, Jensen-Shannon Divergence, $\chi$2 Test, and Informa- tion Gain, to take use of those relationships and evaluate their impact on 4 different datasets, namely the Open Di- rectory Project, Wikipedia, TREC Ohsumed and the CLEF IP European Patent dataset. We show, that hierarchical relationships can be exploited to increase labeling accuracy especially on high-level nodes.},
+  Doi                      = {http://doi.acm.org/10.1145/1835449.1835481},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Muhr, Kern, Granitzer - 2010 - Analysis of structural relationships for hierarchical cluster labeling.pdf:pdf},
+  Keywords                 = {Cluster Labeling,Statistical Methods,Structural Information,Topic Hierarchies,cluster labeling,statistical methods,structural information,topic hierarchies},
+  Mendeley-tags            = {Cluster Labeling,Statistical Methods,Structural Information,Topic Hierarchies},
+  Url                      = {http://portal.acm.org/citation.cfm?id=1835481}
+}
+
+@InProceedings{Seifert2010,
+  Title                    = {User-Based Active Learning},
+  Author                   = {Seifert, Christin and Granitzer, Michael},
+  Booktitle                = {2010 IEEE International Conference on Data Mining Workshops (on Visual Analytics and Knowledge Discovery — VAKD 10)},
+  Year                     = {2010},
+  Month                    = dec,
+  Pages                    = {418--425},
+  Publisher                = {IEEE},
+
+  Doi                      = {10.1109/ICDMW.2010.181},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Seifert, Granitzer - 2010 - User-Based Active Learning.pdf:pdf},
+  ISBN                     = {978-1-4244-9244-2},
+  Keywords                 = {-active learning,Update Bibtex,simulation,user behavior,visual-},
+  Mendeley-tags            = {Update Bibtex},
+  Url                      = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5693328}
+}
+
+@InCollection{springerlink:10.1007/978-3-642-14292-5_11,
+  Title                    = {Classifier Hypothesis Generation Using Visual Analysis Methods},
+  Author                   = {Seifert, Christin and Sabol, Vedran and Granitzer, Michael},
+  Booktitle                = {Networked Digital Technologies},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2010},
+  Editor                   = {Zavoral, Filip and Yaghob, Jakub and Pichappan, Pit and El-Qawasmeh, Eyas},
+  Pages                    = {98--111},
+  Series                   = {Communications in Computer and Information Science},
+  Volume                   = {87},
+
+  Annote                   = {10.1007/978-3-642-14292-5\_11},
+  ISBN                     = {978-3-642-14292-5},
+  Url                      = {http://dx.doi.org/10.1007/978-3-642-14292-5\_11}
+}
+
+@InProceedings{978-0-7695-3733-7,
+  Title                    = {Visual Knowledge Discovery in Dynamic Enterprise Text Repositories},
+  Author                   = {Sabol, Vedran and Kienreich, Wolfgang and Muhr, Markus and Klieber, Werner and Granitzer, Michael},
+  Booktitle                = {Proceedings of the 2009 13th International Conference Information Visualisation},
+  Year                     = {2009},
+
+  Address                  = {London, UK},
+  Pages                    = {361--368},
+  Publisher                = {IEEE Computer Society Washington, DC, USA},
+
+  Abstract                 = {Knowledge discovery involves data driven processes where data is transformed and processed by various algorithms to identify new knowledge. KnowMiner is a service oriented framework providing a rich set of knowledge discovery functionalities with focus on text data sets. Complementing results of automatic machine analysis with the immense processing power of human visual apparatus has the potential of significantly improving the process of acquiring new knowledge. VisTools is a lightweight visual analytics framework based on multiple coordinated views (MCV) paradigm designed for deployment atop the KnowMiner’s service architecture. In this paper we briefly present both frameworks and, driven by real-world customer requirements, describe how visual techniques can be synergistically combined with machine processing for effective analysis of dynamically changing, metadata-rich text documents sets.},
+  Doi                      = {http://dx.doi.org/10.1109/IV.2009.35},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Sabol et al. - 2009 - Visual Knowledge Discovery in Dynamic Enterprise Text Repositories.pdf:pdf},
+  Url                      = {http://portal.acm.org/citation.cfm?id=1588298.1589133}
+}
+
+@Article{ARTScheirGhidiniKernGranitzer08AssociativeRetrieval,
+  Title                    = {ARS/SD: An Associative Retrieval Service for the Semantic Desktop},
+  Author                   = {Scheir, Peter and Ghidini, C and Kern, Roman and Granitzer, Michael},
+  Journal                  = {Studies in Computational Intelligence},
+  Year                     = {2009},
+  Number                   = {Networked Knowledge - Networked Media: Integrating Knowledge Management, New Media Technologies and Semantic Systems},
+  Pages                    = {95--112},
+
+  Doi                      = {10.1007/978-3-642-02184-8},
+  Url                      = {http://www.springerlink.com/content/l65833g5j434l712/}
+}
+
+@Article{Erol2009,
+  Title                    = {Combining BPM and Social Software: Contradiction or Chance?},
+  Author                   = {Erol, S. and Granitzer, Michael and Happ, S. and Jantunen, S. and Jennings, B. and Koschmider, A. and Nurcan, S. and Rossi, D. and Schmidt, R.},
+  Journal                  = {Software Process: Improvement and Practice Journal},
+  Year                     = {2009},
+  Number                   = {Special Issue on BPM 2008},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Erol et al. - 2009 - Combining BPM and Social Software Contradiction or Chance.pdf:pdf},
+  Publisher                = {John Wiley \& Sons, Ltd.},
+  Url                      = {http://crinfo.univ-paris1.fr/users/nurcan/pdf/CombiningBPMandSoS.pdf}
+}
+
+@Article{Granitzer2009,
+  Title                    = {Machine Learning based Work Task Classification},
+  Author                   = {Granitzer, Michael and Rath, Andreas S and Kr\"{o}ll, Mark and Seifert, Christin and Ipsmiller, Doris and Weber, Nicolas and Lindstaedt, Stefanie and Devaurs, D.},
+  Journal                  = {Journal of Digital Information Management (JDIM)},
+  Year                     = {2009},
+  Pages                    = {306--314},
+  Volume                   = {7},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2009 - Machine Learning based Work Task Classification.pdf:pdf},
+  Url                      = {http://know-center.at/download\_extern/papers/preprint.mgrani.MachineLearningBasedWorkTask.pdf}
+}
+
+@InProceedings{Granitzer2009a,
+  Title                    = {Wissensmanagement mit DYONIPOS: Konzepte, Algorithmen und Technologien},
+  Author                   = {Granitzer, Michael and Makolm, Josef and Ipsmiller, Doris},
+  Booktitle                = {Internationales Rechtsinformatik Symposion (IRIS 09)},
+  Year                     = {2009},
+
+  Address                  = {Salzburg},
+  Pages                    = {1--5},
+  Publisher                = {books@ocg.at},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer, Makolm, Ipsmiller - 2009 - Wissensmanagement mit DYONIPOS Konzepte, Algorithmen und Technologien.pdf:pdf}
+}
+
+@InProceedings{Granitzer2009b,
+  Title                    = {Taxonomy Extraction from German Encyclopedic Texts},
+  Author                   = {Granitzer, Michael and Augustin, A. and Kienreich, Wolfgang and Sabol, Vedran},
+  Booktitle                = {In Proceedings of the Malaysian Joint Conference on Artificial Intelligence 2009},
+  Year                     = {2009},
+
+  Address                  = {Kuala Lumpur, Malaysia},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2009 - Taxonomy Extraction from German Encyclopedic Texts.pdf:pdf},
+  Url                      = {http://know-center.at/download\_extern/papers/EncyclopedicHearstPatterns.pdf}
+}
+
+@InProceedings{GranitzerGTLRG08AutomatingKnowledgeTransfer,
+  Title                    = {Automating Knowledge Transfer and Creation in Knowledge Intensive Business Processes},
+  Author                   = {Tochtermann, Klaus and Granitzer, Michael and Rath, Andreas S and Granitzer, Gisela and Lindstaedt, Stefanie and Groi\ss, Wolfgang},
+  Booktitle                = {Business Process Management Workshops},
+  Year                     = {2009},
+
+  Address                  = {Milano, Italy},
+  Pages                    = {687--698},
+  Publisher                = {Springer Berlin / Heidelberg},
+
+  Doi                      = {http://dx.doi.org/10.1007/978-3-642-00328-8\_68},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Tochtermann et al. - 2009 - Automating Knowledge Transfer and Creation in Knowledge Intensive Business Processes.pdf:pdf},
+  Url                      = {http://www.springerlink.com/content/j715x15p1p265548/}
+}
+
+@InProceedings{GranitzerSeifertZechner09ContextBasedWikiLinking,
+  Title                    = {Context based Wikipedia Linking},
+  Author                   = {Granitzer, Michael and Seifert, Christin and Zechner, Mario},
+  Booktitle                = {Advances in Focused Retrieval},
+  Year                     = {2009},
+  Editor                   = {Geva, Shlomo and Kamps, Jaap and Trotman, Andrew},
+  Pages                    = {354--365},
+  Publisher                = {Springer Berlin / Heidelberg},
+  Series                   = {7thInternational Workshop of the Initiative for the Evaluation of, XML Retrieval (INEX 2008)},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer, Seifert, Zechner - 2009 - Context based Wikipedia Linking.pdf:pdf},
+  Keywords                 = {Automatic Linking,gazetteer matching,information retrieval,search engines},
+  Url                      = {http://www.springerlink.com/content/e1t3721121v4661g/}
+}
+
+@InProceedings{Juffinger2009,
+  Title                    = {Spectral web content trend analysis},
+  Author                   = {Juffinger, Andreas and Lex, Elisabeth and Willfort, R. and Granitzer, Michael},
+  Booktitle                = {IADIS International Conference WWW/Internet 2009},
+  Year                     = {2009},
+
+  Address                  = {Madrid},
+  Publisher                = {IADIS},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Juffinger et al. - 2009 - Spectral web content trend analysis.pdf:pdf},
+  Url                      = {http://www.mendeley.com/research/spectral-web-content-trend-analysis/}
+}
+
+@InCollection{Juffinger2009a,
+  Title                    = {Crosslanguage Retrieval Based on Wikipedia Statistics},
+  Author                   = {Juffinger, Andreas and Kern, Roman and Granitzer, Michael},
+  Booktitle                = {Evaluating Systems for Multilingual and Multimodal Information Access},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2009},
+
+  Address                  = {Berlin, Heidelberg},
+  Edition                  = {Lecture No},
+  Pages                    = {155--162},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {5706},
+
+  Abstract                 = {In this paper we present the methodology, implementations and evaluation results of the crosslanguage retrieval system we
+ have developed for the Robust WSD Task at CLEF 2008. Our system is based on query preprocessing for translation and homogenisation
+ of queries. The presented preprocessing of queries includes two stages: Firstly, a query translation step based on term statistics
+ of cooccuring articles in Wikipedia. Secondly, different disjunct query composition techniques to search in the CLEF corpus.
+ We apply the same preprocessing steps for the monolingual as well as the crosslingual task and thereby acting fair and in
+ a similar way across these tasks. The evaluation revealed that the similar processing comes at nearly no costs for monolingual
+ retrieval but enables us to do crosslanguage retrieval and also a feasible comparison of our system performance on these two
+ tasks.},
+  Doi                      = {10.1007/978-3-642-04447-2},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Juffinger, Kern, Granitzer - 2009 - Crosslanguage Retrieval Based on Wikipedia Statistics.pdf:pdf},
+  ISBN                     = {978-3-642-04446-5},
+  Url                      = {http://www.springerlink.com/content/22725212772q22h5}
+}
+
+@InProceedings{Juffinger2009b,
+  Title                    = {Blog credibility ranking by exploiting verified content},
+  Author                   = {Juffinger, Andreas and Granitzer, Michael and Lex, Elisabeth},
+  Booktitle                = {Proceedings of the 3rd workshop on Information credibility on the web - WICOW '09},
+  Year                     = {2009},
+
+  Address                  = {New York, New York, USA},
+  Pages                    = {51},
+  Publisher                = {ACM Press},
+
+  Doi                      = {10.1145/1526993.1527005},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Juffinger, Granitzer, Lex - 2009 - Blog credibility ranking by exploiting verified content.pdf:pdf},
+  ISBN                     = {9781605584881},
+  Keywords                 = {0,blog,credibility,web 2},
+  Url                      = {http://portal.acm.org/citation.cfm?doid=1526993.1527005}
+}
+
+@Unpublished{Kern2009,
+  Title                    = {Application of Axiomatic Approaches to Crosslanguage Retrieval},
+  Author                   = {Kern, Roman and Juffinger, Andreas and Granitzer, Michael},
+  Year                     = {2009},
+
+  Booktitle                = {this volume},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kern, Juffinger, Granitzer - 2009 - Application of Axiomatic Approaches to Crosslanguage Retrieval.pdf:pdf},
+  Keywords                 = {co-occurrene statistics,crosslanguage re-,information retrieval,word sense disambiguation},
+  Series                   = {Working Notes for the CLEF 2009 Workshop},
+  Url                      = {http://clef.isti.cnr.it/2009/working\_notes/rkern-paperCLEF2009.pdf}
+}
+
+@InProceedings{Kern2009a,
+  Title                    = {Efficient linear text segmentation based on information retrieval techniques},
+  Author                   = {Kern, Roman and Granitzer, Michael},
+  Booktitle                = {International Conference on Management of Emergent Digital EcoSystems},
+  Year                     = {2009},
+  Publisher                = {ACM New York, NY, USA},
+
+  Abstract                 = {The task of linear text segmentation is to split a large text document into shorter fragments, usually blocks of consecutive sentences. The algorithms that demonstrated the best performance for this task come at the price of high computational complexity. In our work we present an algorithm that has a computational complexity of O(n) with n being the number of sentences in a document. The performance of our approach is evaluated against algorithms of higher complexity using standard benchmark data sets and we demonstrate that our approach provides comparable accuracy.},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kern, Granitzer - 2009 - Efficient linear text segmentation based on information retrieval techniques.pdf:pdf},
+  Keywords                 = {sentence similarity,sliding window,text segmentation},
+  Url                      = {http://portal.acm.org/citation.cfm?id=1643854}
+}
+
+@InProceedings{Klieber2009,
+  Title                    = {Knowledge Discovery using the Knowminer Framework},
+  Author                   = {Klieber, Werner and Sabol, Vedran and Muhr, Markus and Kern, Roman and \"{O}ttl, Georg and Granitzer, Michael},
+  Booktitle                = {IADIS International Conference Information Systems 2009},
+  Year                     = {2009},
+  Editor                   = {{Miguel Baptista Nunes}, Pedro Isa\'{\i}as and Powell, Philip},
+  Organization             = {IADIS International Conference Information Systems 2009},
+  Pages                    = {307--314},
+  Publisher                = {IADIS},
+  Volume                   = {Single},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Klieber et al. - 2009 - Knowledge Discovery using the Knowminer Framework.pdf:pdf},
+  Url                      = {http://know-center.at/download\_extern/papers/IADIS\_Knowminer.pdf}
+}
+
+@InProceedings{Klieber2009a,
+  Title                    = {Using Ontologies For Software Documentation},
+  Author                   = {Klieber, W. and Sabol, V. and Kern, R. and Muhr, M. and Granitzer, Michael},
+  Booktitle                = {Malaysian Joint Conference on Artificial Intelligence 2009},
+  Year                     = {2009},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Klieber et al. - 2009 - Using Ontologies For Software Documentation.pdf:pdf},
+  Keywords                 = {documentation,ontologies},
+  Url                      = {http://know-center.at/download\_extern/papers/MJCAI2009 software ontology.pdf}
+}
+
+@Unpublished{Lex2009,
+  Title                    = {Know-Center at TREC 2009 Blog Distillation Task: A Notebook Paper},
+  Author                   = {Lex, Elisabeth and Granitzer, Michael and Juffinger, Andreas},
+  Year                     = {2009},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex, Granitzer, Juffinger - 2009 - Know-Center at TREC 2009 Blog Distillation Task A Notebook Paper.pdf:pdf},
+  Series                   = {Notebook of TREC 2009}
+}
+
+@InProceedings{Lex2009a,
+  Title                    = {Automated Blog Classification: A Cross Domain Approach},
+  Author                   = {Lex, Elisabeth and Seifert, Christin and Granitzer, Michael and Juffinger, Andreas},
+  Booktitle                = {Proceedings of IADIS International Conference WWW/Internet},
+  Year                     = {2009},
+
+  Address                  = {Rom, Italy},
+  Publisher                = {IADIS},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex et al. - 2009 - Automated Blog Classification A Cross Domain Approach.pdf:pdf}
+}
+
+@InProceedings{Lex2009b,
+  Title                    = {Cross-Domain Classification: Trade-Off between Complexity and Accuracy},
+  Author                   = {Lex, Elisabeth and Seifert, Christin and Granitzer, Michael and Juffinger, Andreas},
+  Booktitle                = {Proceedings of the 4th International Conference for Internet Technology and Secured Transactions (ICITST)},
+  Year                     = {2009},
+
+  Address                  = {London, UK},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex et al. - 2009 - Cross-Domain Classification Trade-Off between Complexity and Accuracy.pdf:pdf}
+}
+
+@Article{Lex2009c,
+  Title                    = {Facet Classification of Blogs: Know-Center at the TREC 2009 Blog Distillation Task},
+  Author                   = {Lex, Elisabeth and Granitzer, Michael and Juffinger, Andreas and (AUSTRIA), KNOW CENTER GRAZ},
+  Journal                  = {In Proceedings of the 18th Text REtrieval Conference.},
+  Year                     = {2009},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex et al. - 2009 - Facet Classification of Blogs Know-Center at the TREC 2009 Blog Distillation Task.pdf:pdf},
+  Url                      = {http://oai.dtic.mil/oai/oai?verb=getRecord\&amp;metadataPrefix=html\&amp;identifier=ADA517854}
+}
+
+@InProceedings{Muhr2009,
+  Title                    = {External and Intrinsic Plagiarism Detection Using Vector Space Models},
+  Author                   = {Muhr, Markus and Zechner, Mario and Kern, Roman and Granitzer, Michael},
+  Booktitle                = {Proceedings of the SEPLN'09 Workshop on Uncovering Plagiarism, Authorship and Social Software Misuse (PAN-2009) and 1st International Competition on Plagiarism Detection,},
+  Year                     = {2009},
+
+  Address                  = {San Sebastian, Spain},
+  Editor                   = {{Benno Stein, Paolo Rosso, Efstathios Stamatatos, Moshe Koppel}, Eneko Agirre},
+  Pages                    = {47},
+  Publisher                = {CEUR-WS (online)},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Muhr et al. - 2009 - External and Intrinsic Plagiarism Detection Using Vector Space Models.pdf:pdf},
+  Keywords                 = {nearest neighbor search,outlier,plagiarism detection,stylometry},
+  Url                      = {http://ftp1.de.freebsd.org/Publications/CEUR-WS/Vol-502/pan09-proceedings.pdf\#page=55}
+}
+
+@InProceedings{Muhr2009a,
+  Title                    = {Automatic Cluster Number Selection using a Split and Merge K-Means Approach},
+  Author                   = {Muhr, Markus and Granitzer, Michael},
+  Booktitle                = {20th International Workshop on Database and Expert Systems Application},
+  Year                     = {2009},
+  Pages                    = {363--367},
+  Publisher                = {IEEE Computer Society},
+
+  Doi                      = {http://www.computer.org/portal/web/csdl/doi/10.1109/DEXA.2009.39},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Muhr, Granitzer - 2009 - Automatic Cluster Number Selection using a Split and Merge K-Means Approach.pdf:pdf},
+  Keywords                 = {-k-means,cluster number selec-,split and merge,tion,validity indices},
+  Url                      = {http://www.uni-weimar.de/medien/webis/research/workshopseries/tir-09/proceedings/muhr09-automatic-cluster-number-selection-using-a-split-and-merge-k-means-approach.pdf}
+}
+
+@InProceedings{Shahzad2009,
+  Title                    = {Designing User Interfaces through Ontological User Model - a Functional Programming Approach},
+  Author                   = {Shahzad, Syed K and Granitzer, Michael and Tochtermann, Klaus},
+  Booktitle                = {Fourth International Conference on Computer Sciences and Convergence Information Technology (ICCIT 2009)},
+  Year                     = {2009},
+
+  Address                  = {Seoul, Korea},
+  Editor                   = {Sohn, Sungwon and Ko, Kae Dal Kwack and Franz, Kyhyun Um and Lee, Gye Young},
+  Pages                    = {99--104},
+  Publisher                = {IEEE Computer Society},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Shahzad, Granitzer, Tochtermann - 2009 - Designing User Interfaces through Ontological User Model - a Functional Programming Approach.pdf:pdf},
+  ISBN                     = {978-0-7695-3896-9}
+}
+
+@Article{Weichselbraun2009,
+  Title                    = {Discovery and evaluation of non-taxonomic relations in domain ontologies},
+  Author                   = {Weichselbraun, Albert and Wohlgenannt, Gerhard and Scharl, Arno and Granitzer, Michael and Neidhart, Thomas and Juffinger, Andreas},
+  Journal                  = {International Journal of Metadata, Semantics and Ontologies},
+  Year                     = {2009},
+  Number                   = {3},
+  Volume                   = {4},
+
+  Abstract                 = {The identification and labelling of non-hierarchical relations are among the most challenging tasks in ontology learning. This paper describes a bottom-up approach for automatically suggesting ontology link types. The presented method extracts verb-vectors from semantic relations identified in the domain corpus, aggregates them by computing centroids for known relation types, and stores the centroids in a central knowledge base. Comparing verb-vectors extracted from unknown relations with the stored centroids yields link type suggestions. Domain experts evaluate these suggestions, refining the knowledge base and constantly improving the component's accuracy. A final evaluation provides a detailed statistical analysis of the introduced approach.},
+  ISSN                     = {1744-2621},
+  Keywords                 = {domain ontologies,link-type detection,non-hierarchical relations,non-taxonomic relations,ontology extension,ontology learning,vector space modelling},
+  Url                      = {http://portal.acm.org/citation.cfm?id=1594647}
+}
+
+@InProceedings{Zechner2009,
+  Title                    = {A Competitive Learning Approach to Instance Selection for Support Vector Machines},
+  Author                   = {Zechner, Mario and Granitzer, Michael},
+  Booktitle                = {Knowledge Science, Engineering and Management},
+  Year                     = {2009},
+
+  Address                  = {Berlin, Heidelberg},
+  Pages                    = {146--157},
+  Publisher                = {Springer Berlin Heidelberg},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {5914},
+
+  Abstract                 = {Support Vector Machines (SVM) have been applied successfully in a wide variety of fields in the last decade. The SVM problem
+ is formulated as a convex objective function subject to box constraints that needs to be maximized, a quadratic programming
+ (QP) problem. In order to solve the QP problem on larger data sets specialized algorithms and heuristics are required. In
+ this paper we present a new data-squashing method for selecting training instances in support vector learning. Inspired by
+ the growing neural gas algorithm and learning vector quantization we introduce a new, parameter robust neural gas variant
+ to retrieve an initial approximation of the training set containing only those samples that will likely become support vectors
+ in the final classifier. This first approximation is refined in the border areas, defined by neighboring neurons of different
+ classes, yielding the final training set. We evaluate our approach on synthetic as well as real-life datasets, comparing run-time
+ complexity and accuracy to a random sampling approach and the exact solution of the support vector machine. Results show that
+ runtime-complexity can be significantly reduced while achieving the same accuracy as the exact solution and that furthermore
+ our approach does not not rely on data set specific parameterization of the sampling rate like random sampling for doing so.
+ Source code, binary executables as well as the reformatted standard data sets are available for download at 
+ http://www.know-center.tugraz.at/forschung/
+ 
+ 
+ knowledge\_relationship\_discovery/downloads\_demos/
+ 
+ 
+ sngsvm\_source\_executables},
+  Doi                      = {10.1007/978-3-642-10488-6},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Zechner, Granitzer - 2009 - A Competitive Learning Approach to Instance Selection for Support Vector Machines.pdf:pdf},
+  ISBN                     = {978-3-642-10487-9},
+  Url                      = {http://www.springerlink.com/content/b1270040734w6r22}
+}
+
+@InProceedings{Zechner2009a,
+  Title                    = {Accelerating K-Means on the Graphics Processor via CUDA},
+  Author                   = {Zechner, Mario and Granitzer, Michael},
+  Booktitle                = {2009 First International Conference on Intensive Applications and Services},
+  Year                     = {2009},
+  Month                    = apr,
+  Pages                    = {7--15},
+  Publisher                = {Ieee},
+
+  Doi                      = {10.1109/INTENSIVE.2009.19},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Zechner, Granitzer - 2009 - Accelerating K-Means on the Graphics Processor via CUDA.pdf:pdf},
+  ISBN                     = {978-1-4244-3683-5},
+  Url                      = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4976415}
+}
+
+@Article{Zechner2009b,
+  Title                    = {K-Means on the Graphics Processor: Design And Experimental Analysis},
+  Author                   = {Zechner, Mario and Granitzer, Michael},
+  Journal                  = {International Journal on Advances in System and Measurements},
+  Year                     = {2009},
+  Pages                    = {224--235},
+  Volume                   = {2},
+
+  Doi                      = {issn: 1942-261x},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Zechner, Granitzer - 2009 - K-Means on the Graphics Processor Design And Experimental Analysis.pdf:pdf},
+  Url                      = {http://www.iariajournals.org/systems\_and\_measurements/sysmea\_v2\_n23\_2009\_paged.pdf}
+}
+
+@InCollection{ARTBrunie2008,
+  Title                    = {Multimedia Metadata Standards},
+  Author                   = {Brunie, Lionel and Bailer, Werner and Doeller, Mario and Granitzer, Michael and Klamma, Ralf and Kosch, Harald and Lux, Mathias and Spaniol, Marc},
+  Booktitle                = {Encyclopedia of Multimedia 2nd Edt.},
+  Publisher                = {Springer US},
+  Year                     = {2008},
+  Chapter                  = {Multimedia},
+
+  Doi                      = {10.1007/978-0-387-78414-4},
+  ISBN                     = {978-0-387-74724-8},
+  Url                      = {http://www.springer.com/computer/information+systems/book/978-0-387-74724-8}
+}
+
+@Article{ARTSabolAndrewsKienreichGranitzer08TextMapping,
+  Title                    = {Text mapping: Visualising unstructured, structured, and time-based text collections},
+  Author                   = {Sabol, Vedran and Andrews, Keith and Kienreich, Wolfgang and Granitzer, Michael},
+  Journal                  = {Intelligent Decision Technologies},
+  Year                     = {2008},
+  Pages                    = {117--128},
+  Volume                   = {2},
+
+  Abstract                 = {Large collections of text documents are increasingly common, both in business and personal information environments. Tools from the field of information visualisation are being used to help users make sense of and extract useful knowledge from such collections. Flat text collections are often visualised using distance calculations between documents and subsequent (distance-preserving) projection. Distance calculations are often based on a vector space of term vectors. Projection is often achieved with a force-directed placement algorithm. Where extra information about a text collection is available, such as a topical hierarchy or some chronological ordering, it can be used to improve a visualisation. This paper gives an overview of text mapping techniques.},
+  Annote                   = {http://iospress.metapress.com/content/47u63759v5566187},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Sabol et al. - 2008 - Text mapping Visualising unstructured, structured, and time-based text collections.pdf:pdf},
+  Url                      = {http://iospress.metapress.com/content/47u63759v5566187/}
+}
+
+@Article{ARTSabolKienreichGranitzer08VisualisationTechniques,
+  Title                    = {Visualisation Techniques for Analysis and Exploration of Multimedia Data},
+  Author                   = {Sabol, Vedran and Kienreich, Wolfgang and Granitzer, Michael},
+  Journal                  = {Multimedia Semantics - The Role of Metadata},
+  Year                     = {2008},
+  Pages                    = {219--238},
+
+  Doi                      = {10.1007/978-3-540-77473-0\_11},
+  Editor                   = {Granitzer, Michael and Lux, Mathias and Spaniol, Marc}
+}
+
+@Book{BookGranitzer08KnowMiner,
+  Title                    = {KnowMiner - Konzeption \& Entwicklung eines generischen Wissenserschlie\ss ungsframeworks},
+  Author                   = {Granitzer, Michael},
+  Year                     = {2008},
+
+  Doi                      = {ISBN-13:978-3836472098},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer - 2008 - KnowMiner - Konzeption \& Entwicklung eines generischen Wissenserschlie\ss ungsframeworks.pdf:pdf},
+  ISBN                     = {3836472090},
+  Keywords                 = {PhD},
+  Pages                    = {236},
+  Url                      = {http://www.terrashop.de/83647209A/artikel.php}
+}
+
+@Book{BookGranitzer08MMSTheRoleOfMetadata,
+  Title                    = {Multimedia Semantics - The Role of Metadata},
+  Author                   = {Granitzer, Michael and Lux, Mathias and Spaniol, Marc},
+  Editor                   = {Granitzer, Michael and Lux, Mathias and Spaniol, Marc},
+  Publisher                = {Springer Berlin / Heidelberg},
+  Year                     = {2008},
+  Series                   = {Studies in Computational Intelligence},
+  Volume                   = {Series: St},
+
+  Doi                      = {ISBN: 978-3-540-77472-3},
+  ISBN                     = {978-3-540-77472-3},
+  Keywords                 = {eigene,multimedia,multimedia community,semantics},
+  Pages                    = {262},
+  Url                      = {http://www.springer.com/engineering/book/978-3-540-77472-3?detailsPage=toc}
+}
+
+@Misc{Granitzer2008,
+  Title                    = {Die clevere Art der Suche},
+
+  Author                   = {Granitzer, Gisela and Tochtermann, Klaus and Granitzer, Michael},
+  Year                     = {2008}
+}
+
+@InProceedings{Granitzer2008a,
+  Title                    = {EVALUATION OF AUTOMATIC LINKING STRATEGIES FOR WIKIPEDIA PAGES},
+  Author                   = {Granitzer, Michael and Zechner, Mario and Seifert, Christin and Kolbitsch, J. and Kemper, P.},
+  Booktitle                = {IADIS International Conference WWW/Internet 2008},
+  Year                     = {2008},
+
+  Address                  = {Freiburg, Germany},
+  Publisher                = {IADIS},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2008 - EVALUATION OF AUTOMATIC LINKING STRATEGIES FOR WIKIPEDIA PAGES.pdf:pdf},
+  Keywords                 = {evaluation,link generation,retrieval,wikipedia},
+  Url                      = {http://en.know-center.at/content/download/1513/8006/file/IADIS.WWW.WikiLinking.CR.2008.pdf}
+}
+
+@InProceedings{GranitzerKroellSeifert08AnalysisML,
+  Title                    = {Analysis of Machine Learning Techniques for Context Extraction},
+  Author                   = {Granitzer, Michael and Kr\"{o}ll, Mark and Seifert, Christin and Rath, Andreas S and Weber, Nicolas and Dietzel, Olivia and Lindstaedt, Stefanie},
+  Booktitle                = {Proceedings of 2008 IEEE International Conference on Digital Information Management (ICDIM08)},
+  Year                     = {2008},
+
+  Address                  = {London, UK},
+  Pages                    = {233--240},
+  Publisher                = {IEEE Computer Society},
+
+  Doi                      = {10.1109/ICDIM.2008.4746809},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2008 - Analysis of Machine Learning Techniques for Context Extraction.pdf:pdf},
+  Url                      = {http://ieeexplore.ieee.org/xpl/freeabs\_all.jsp?arnumber=4746809}
+}
+
+@InProceedings{GranitzerSeifertZechner08ContextForWiki,
+  Title                    = {Context Resolution Strategies for Automatic Wikipedia Learning},
+  Author                   = {Granitzer, Michael and Seifert, Christin and Zechner, Mario},
+  Booktitle                = {INEX 2008 pre-proceedings},
+  Year                     = {2008},
+  Editor                   = {Geva, Shlomo and Kamps, Jaap and Trotman, Andrew},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer, Seifert, Zechner - 2008 - Context Resolution Strategies for Automatic Wikipedia Learning.pdf:pdf},
+  Keywords                 = {Automatic Linking,gazetteer matching,information retrieval,search engines}
+}
+
+@InProceedings{IPKernGranitzerPammer08ExtendingFolksonomies,
+  Title                    = {Extending Folksonomies for Image Tagging},
+  Author                   = {Kern, Roman and Granitzer, Michael and Pammer, Viktoria},
+  Booktitle                = {WIAMIS 2008 , Special Session on Multimedia Metadata Management \& Retrieval},
+  Year                     = {2008},
+
+  Address                  = {Klagenfurt},
+  Publisher                = {IEEE Computer Society},
+
+  Doi                      = {10.1109/WIAMIS.2008.43},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kern, Granitzer, Pammer - 2008 - Extending Folksonomies for Image Tagging.pdf:pdf},
+  Url                      = {http://ieeexplore.ieee.org/xpl/freeabs\_all.jsp?tp=\&arnumber=4556901\&isnumber=4556857}
+}
+
+@InProceedings{IPRathKSWGranitzerD08ContextAwareServices,
+  Title                    = {Context-aware Knowledge Services},
+  Author                   = {Rath, Andreas S and Kr\"{o}ll, Mark and Lindstaedt, Stefanie and Weber, Nicolas and Granitzer, Michael and Dietzel, Olivia},
+  Booktitle                = {Proceedings of Computer Human Interaction (CHI 2008), Workshop on Personal Information Management: PIM 2008},
+  Year                     = {2008},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Rath et al. - 2008 - Context-aware Knowledge Services.pdf:pdf}
+}
+
+@Unpublished{Juffinger2008,
+  Title                    = {Exploiting Cooccurrence on Corpus and Document Level for Fair Crosslanguage Retrieval},
+  Author                   = {Juffinger, Andreas and Kern, Roman and Granitzer, Michael},
+  Year                     = {2008},
+
+  Address                  = {Aarhus, Denmark},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Juffinger, Kern, Granitzer - 2008 - Exploiting Cooccurrence on Corpus and Document Level for Fair Crosslanguage Retrieval.pdf:pdf},
+  Series                   = {Working Notes for the CLEF 2008 Workshop},
+  Url                      = {http://www.clef-campaign.org/2008/working\_notes/ajuffing2008clef.pdf}
+}
+
+@InProceedings{Kienreich2008,
+  Title                    = {APA Labs: An experimental web-based platform for the retrieval and analysis of news articles},
+  Author                   = {Kienreich, Wolfgang and Lex, Elisabeth and Seifert, Christin},
+  Booktitle                = {2008 First International Conference on the Applications of Digital Information and Web Technologies (ICADIWT)},
+  Year                     = {2008},
+  Pages                    = {58--62},
+  Publisher                = {IEEE},
+
+  Abstract                 = {In this paper, we present APA Labs, an experimental, Web-based platform supporting retrieval and analysis in the news archives of the Austrian Press Agency. APA Labs has been designed as a combination of a rich internet application with a modular system of interactive visualizations backed by server-side entity extraction and three-dimensional rendering capability. This paper outlines concepts and implementation details of APA Labs and presents several visualization modules based on research results from the field of Information and Knowledge visualization.},
+  Doi                      = {10.1109/ICADIWT.2008.4664318},
+  ISBN                     = {978-1-4244-2623-2},
+  Url                      = {http://ieeexplore.ieee.org/xpl/freeabs\_all.jsp?tp=\&arnumber=4664318\&isnumber=4664315}
+}
+
+@Article{LexSeifertKienreichGranitzer2008Labs,
+  Title                    = {A Generic Framework for Visualizing the News Article Domain and its Application to Real-World Data},
+  Author                   = {Lex, Elisabeth and Seifert, Christin and Kienreich, Wolfgang and Granitzer, Michael},
+  Journal                  = {Journal of Digital Information Management (JDIM)},
+  Year                     = {2008},
+  Volume                   = {6},
+
+  Abstract                 = {In this work we present APA Labs, a generic framework for visualizing the news article domain. APA Labs is a web-based platform enabling retrieval and analysis of news repositories provided by the Austrian Press Agency. APA Labs is designed as a rich internet application combined with a modular system of interactive visualizations. News articles are analyzed using domain specific named entity extraction methods combined with language specific heuristics. The proposed methods were subject to an evaluation procedure outlined in this contribution. This article illustrates the domain, the underlying concepts and implementation details. Several visualization modules are presented and an outlook on planned modules is given. Being online for around six months the community feedback as well as the easy integration of new modules shows the success of the underlying concept and the platform itself.},
+  Annote                   = {ISSN 0972-7272},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex et al. - 2008 - A Generic Framework for Visualizing the News Article Domain and its Application to Real-World Data.doc:doc;:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lex et al. - 2008 - A Generic Framework for Visualizing the News Article Domain and its Application to Real-World Data.pdf:pdf},
+  Url                      = {http://www.dirf.org/jdim/v6i6.asp}
+}
+
+@InProceedings{Seifert2008,
+  Title                    = {On the Beauty and Usability of Tag Clouds},
+  Author                   = {Seifert, Christin and Kienreich, Wolfgang and Kump, B. and Granitzer, Gisela and Granitzer, Michael},
+  Booktitle                = {2008 12th International Conference Information Visualisation},
+  Year                     = {2008},
+  Pages                    = {17--25},
+  Publisher                = {IEEE},
+
+  Abstract                 = {Tag clouds are text-based visual representations of a set of tags usually depicting tag importance by font size. Recent trends in social and collaborative software have greatly increased the popularity of this type of visualization. This paper proposes a family of novel algorithms for tag cloud layout and presents evaluation results obtained from an extensive user study and a technical evaluation. The algorithms address issues found in many common approaches, for example large whitespaces, overlapping tags and restriction to specific boundaries. The layouts computed by these algorithms are compact and clear, have small whitespaces and may feature arbitrary convex polygons as boundaries. The results of the user study and the technical evaluation enable designers to devise a combination of algorithm and parameters which produces satisfying tag cloud layouts for many application scenarios.},
+  Doi                      = {10.1109/IV.2008.89},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Seifert et al. - 2008 - On the Beauty and Usability of Tag Clouds.pdf:pdf},
+  ISBN                     = {978-0-7695-3268-4},
+  Url                      = {http://ieeexplore.ieee.org/xpl/freeabs\_all.jsp?arnumber=4577920}
+}
+
+@Book{BookDBLP:conf/btw/2007w,
+  Title                    = {Datenbanksysteme in Business, Technologie und Web (BTW 2007), Workshop Proceedings, 5.-6. M\"{a}rz 2007, Aachen, Germany},
+  Author                   = {Jarke, Matthias and Seidl, Thomas and Quix, Christoph and Kensche, David and Conrad, Stefan and Rahm, Erhard and Klamma, Ralf and Kosch, Harald and Granitzer, Michael and Apel, Sven and Rosenm\"{u}ller, Marko and Saake, Gunter and Spinczyk, Olaf},
+  Editor                   = {Jarke, Matthias and Seidl, Thomas and Quix, Christoph and Kensche, David and Conrad, Stefan and Rahm, Erhard and Klamma, Ralf and Kosch, Harald and Granitzer, Michael and Apel, Sven and Rosenm\"{u}ller, Marko and Saake, Gunter and Spinczyk, Olaf},
+  Year                     = {2007},
+
+  Booktitle                = {BTW Workshops},
+  ISBN                     = {3-86130-929-7}
+}
+
+@InProceedings{IPGranitzerScharlWeichselbraunNJW07HypothesisTesting,
+  Title                    = {Automated Ontology Learning and Validation Using Hypothesis Testing},
+  Author                   = {Granitzer, Michael and Scharl, Arno and Weichselbraun, Albert and Neidhart, Thomas and Juffinger, Andreas and Wohlgenannt, Gerhard},
+  Booktitle                = {Proceedings of the 5th AtlanticWeb Intelligence Conference -- AWIC’2007},
+  Year                     = {2007},
+
+  Address                  = {Fontainbleau, France},
+  Pages                    = {130--135},
+  Publisher                = {Springer Berlin / Heidelberg},
+
+  Doi                      = {10.1007/978-3-540-72575-6\_21},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2007 - Automated Ontology Learning and Validation Using Hypothesis Testing.pdf:pdf},
+  Url                      = {http://www.springerlink.com/content/78683h15146x370g/}
+}
+
+@InProceedings{IPJuffingerNEidhartWWGranitzerKernS2007DistributedWeb20Crawling,
+  Title                    = {Distributed Web2.0 Crawling for Ontology Evolution},
+  Author                   = {Juffinger, Andreas and Neidhart, Thomas and Granitzer, Michael and Kern, Roman and Scharl, Arno and Weichselbraun, Albert and Wohlgenannt, Gerhard},
+  Booktitle                = {Proc. 2nd International Conference on Digital Information Management ICDIM '07},
+  Year                     = {2007},
+  Month                    = oct,
+  Pages                    = {114--119},
+  Publisher                = {Ieee},
+  Volume                   = {7},
+
+  Abstract                 = {Semantic Web technologies in general and ontologybased approaches in particular are considered the foundation for the next generation of information services. While ontologies enable software agents to exchange knowledge and information in a standardised, intelligent manner, describing todays vast amount of information in terms of ontological knowledge and to track the evolution of such ontologies remains a challenge. In this paper we describe Web2.0 crawling for ontology evolution. The World Wide Web, or Web for short, is due, its evolutionary properties and social network characteristics a perfect fitting data source to evolve an ontology. The decentralised structure of the Internet, the huge amount of data and upcoming Web2.0 technologies arise several challenges for a crawling system. In this paper we present a distributed crawling system with standard browser integration. The proposed system is a high performance, sitescript based noise reducing crawler, which loads standard browser equivalent content from Web2.0 resources. Furthermore we describe the integration of this spider into our ontology evolution framework.},
+  Doi                      = {10.1109/ICDIM.2007.4444293},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Juffinger et al. - 2007 - Distributed Web2.0 crawling for ontology evolution.pdf:pdf;:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Juffinger et al. - 2009 - Distributed Web2.0 Crawling for Ontology Evolution.pdf:pdf},
+  ISBN                     = {978-1-4244-1475-8},
+  Url                      = {http://www.dirf.org/jdim/v7i2.asp}
+}
+
+@InProceedings{IPKroell06ContextualRetrieval,
+  Title                    = {Contextual Retrieval in Knowledge Intensive Business Environments},
+  Author                   = {Kr\"{o}ll, Mark and Rath, Andreas S and Granitzer, Michael and Lindstaedt, Stefanie and Tochtermann, Klaus},
+  Booktitle                = {Workshop Information Retrieval of the Special Interest Group Information Retrieval (FGIR)},
+  Year                     = {2007},
+
+  Keywords                 = {context dyonipos retrieval}
+}
+
+@InProceedings{IPKroellRath07Kernels,
+  Title                    = {Task Instance Classification via Graph Kernels},
+  Author                   = {Rath, Andreas S and Kr\"{o}ll, Mark and Weber, Nicolas and Lindstaedt, Stefanie and Granitzer, Michael},
+  Booktitle                = {Mining and Learning with Graphs (MLG 07), Florenz, Italy, August 1-3},
+  Year                     = {2007},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Rath et al. - 2007 - Task Instance Classification via Graph Kernels.pdf:pdf}
+}
+
+@InProceedings{IPLuxGranitzerKern2007BroadFolksonomies,
+  Title                    = {Aspects of Broad Folksonomies},
+  Author                   = {Lux, Mathias and Granitzer, Michael and Kern, Roman},
+  Booktitle                = {Proc. 18th International Conference on Database and Expert Systems Applications DEXA '07},
+  Year                     = {2007},
+
+  Address                  = {Regensburg},
+  Month                    = sep,
+  Pages                    = {283--287},
+  Publisher                = {IEEE Computer Society},
+
+  Doi                      = {10.1109/DEXA.2007.80},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lux, Granitzer, Kern - 2007 - Aspects of Broad Folksonomies.pdf:pdf},
+  ISBN                     = {0-7695-2932-1},
+  ISSN                     = {1529-4188},
+  Keywords                 = {Internet,World Wide Web,broad folksonomy,folksonomy based retrieval,groupware,information retrieval,keyword assignment,meta data,metadata,statistical analysis,statistical property},
+  Url                      = {http://ieeexplore.ieee.org/xpl/freeabs\_all.jsp?tp=\&arnumber=4312902\&isnumber=4312839}
+}
+
+@InProceedings{IPRath07LowLevelEvent,
+  Title                    = {Low-Level Event Relationship Discovery for Knowledge Work Support},
+  Author                   = {Rath, Andreas S and Kr\"{o}ll, Mark and Lindstaedt, Stefanie and Granitzer, Michael},
+  Booktitle                = {Proc. of the 4th Conference on Professional Knowledge Management},
+  Year                     = {2007},
+  Editor                   = {Gronau, Prof. Dr.-Ing. Norbert},
+  Series                   = {ProKW2007 Productive Knowledge Work - Management and Technological Challenges},
+  Volume                   = {2},
+
+  Keywords                 = {context determination dyonipos exploitation}
+}
+
+@InProceedings{IPSabol2007,
+  Title                    = {Fused Exploration of Temporal Developments and Topical Relationships in Heterogeneous Data Sets},
+  Author                   = {Sabol, Vedran and Granitzer, Michael and Kienreich, Wolfgang},
+  Booktitle                = {Proc. 11th International Conference Information Visualization IV '07},
+  Year                     = {2007},
+  Month                    = jul,
+  Pages                    = {369--375},
+  Publisher                = {Ieee},
+
+  Doi                      = {10.1109/IV.2007.53},
+  ISBN                     = {0-7695-2900-3},
+  ISSN                     = {1550-6037},
+  Keywords                 = {data structures,data visualisation,heterogeneous data sets,temporal-topical visualisation system,user interface,user interfaces,visual representation}
+}
+
+@InProceedings{IPSabolGutlNeidhartJuffingerKlieberGranitzer07MultiModal,
+  Title                    = {Visualization Metaphors for Multi-modal Meeting Data},
+  Author                   = {Sabol, Vedran and G\"{u}tl, Christian and Neidhart, Thomas and Juffinger, Andreas and Klieber, Werner and Granitzer, Michael},
+  Booktitle                = {Datenbanksysteme in Business, Technologie und Web (BTW 2007), Workshop Proceedings, 5.-6. M\"arz 2007, Aachen, Germany},
+  Year                     = {2007},
+  Pages                    = {250--269},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Sabol et al. - 2007 - Visualization Metaphors for Multi-modal Meeting Data.doc:doc}
+}
+
+@InProceedings{IPScheirGranitzerLindstaedt07EvaluatingIRSystems,
+  Title                    = {Evaluating an Information Retrieval System for the Semantic Desktop using Standard Measures from Information Retrieval},
+  Author                   = {Lindstaedt, Stefanie and Scheir, Peter and Granitzer, Michael},
+  Booktitle                = {LWA 2007: Lernen - Wissen - Adaption, Halle, September 2007, Workshop Proceedings},
+  Year                     = {2007},
+  Pages                    = {269--272}
+}
+
+@InProceedings{IPStrohmaierLuxGranitzerScheirLiaskosYu07Goals,
+  Title                    = {How Do Users Express Goals on the Web? - An Exploration of Intentional Structures in Web Search},
+  Author                   = {Strohmaier, Markus and Lux, Mathias and Granitzer, Michael and Scheir, Peter and Liaskos, Sotirios and Yu, Eric S K},
+  Booktitle                = {WISE Workshops},
+  Year                     = {2007},
+  Pages                    = {67--78},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Strohmaier et al. - 2007 - How Do Users Express Goals on the Web - An Exploration of Intentional Structures in Web Search.doc:doc}
+}
+
+@InProceedings{IPWeichselbraunWSGranitzerNJ2007VSMForOntologyLinkTypeSuggestion,
+  Title                    = {Applying Vector Space Models to Ontology Link Type Suggestion},
+  Author                   = {Weichselbraun, Albert and Wohlgenannt, Gerhard and Scharl, Arno and Granitzer, Michael and Neidhart, Thomas and Juffinger, Andreas},
+  Booktitle                = {Proc. 4th International Conference on Innovations in Information Technology Innovations '07},
+  Year                     = {2007},
+  Month                    = nov,
+  Pages                    = {566--570},
+  Publisher                = {Ieee},
+
+  Abstract                 = {The identification and labeling of non-hierarchical relations are among the most challenging tasks in ontology learning. This paper describes an approach for suggesting ontology relationship types to domain experts based on implicitly learned relations from a domain corpus. The learning process extracts verb- vectors from sentences containing domain concepts. It computes centroids for known relationship types and stores them in the knowledge base. Vectors of unknown relationships are compared to the stored centroids using the cosine similarity metric. The system then suggests the relationship type of the most similar centroid. Domain experts evaluate these suggestions to refine the knowledge base and constantly improve the component's accuracy. Using four sample ontologies on ``energy sources'', this paper demonstrates how link type suggestion aids the ontology design process. It also provides a statistical analysis on the accuracy and average ranking performance of batch learning versus online learning.},
+  Doi                      = {10.1109/IIT.2007.4430433},
+  ISBN                     = {978-1-4244-1840-4},
+  Keywords                 = {batch learning,cosine similarity metric,knowledge based system,knowledge based systems,learning (artificial intelligence),nonhierarchical relations,online learning,ontologies (artificial intelligence),ontology design process,ontology learning,ontology link type suggestion,semantic Web,statistical analysis,vector space models}
+}
+
+@InCollection{ARTGranitzer06StatistischeVerfahren,
+  Title                    = {Statistische Verfahren der Textanalyse},
+  Author                   = {Granitzer, Michael},
+  Booktitle                = {Semantic Web - Wege zur vernetzten Wissensgesellschaft},
+  Year                     = {2006},
+  Editor                   = {Pellegrini, T Blumauer A},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer - 2006 - Statistische Verfahren der Textanalyse.doc:doc},
+  Url                      = {http://www.semantic-web.at/springer/}
+}
+
+@Article{ARTLuxKlieberGranitzer2006AnnotationComplexity,
+  Title                    = {On the Complexity of Annotation with the High Level Metadata},
+  Author                   = {Lux, Mathias and Klieber, Werner and Granitzer, Michael},
+  Journal                  = {JUKM},
+  Year                     = {2006},
+  Pages                    = {54--58},
+  Volume                   = {1},
+
+  Url                      = {http://www.jukm.org/jukm\_1\_1/on\_the\_complexity\_of}
+}
+
+@InProceedings{IPGranitzer2006,
+  Title                    = {Learning Term Spaces Based on Visual Feedback},
+  Author                   = {Granitzer, Michael and Neidhart, Thomas and Lux, Mathias},
+  Booktitle                = {Proc. 17th International Conference on Database and Expert Systems Applications DEXA '06},
+  Year                     = {2006},
+
+  Address                  = {Krakow, Poland},
+  Pages                    = {176--180},
+  Publisher                = {IEEE},
+
+  Doi                      = {10.1109/DEXA.2006.82},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer, Neidhart, Lux - 2006 - Learning Term Spaces Based on Visual Feedback.pdf:pdf},
+  ISBN                     = {0-7695-2641-1},
+  ISSN                     = {1529-4188},
+  Url                      = {http://ieeexplore.ieee.org/xpl/freeabs\_all.jsp?tp=\&arnumber=1698330\&isnumber=35810}
+}
+
+@TechReport{IPGranitzerLuxKosch200655tMMCWorkshop,
+  Title                    = {5th Workshop of the Multimedia Metadata Community},
+  Author                   = {Granitzer, Michael and Lux, Mathias and Kosch, Harald},
+  Year                     = {2006},
+
+  Booktitle                = {I-KNOW '06 6th International Conference on Knowledge Management},
+  Pages                    = {568--569}
+}
+
+@InProceedings{IPKienreich2006,
+  Title                    = {Plagiarism Detection in Large Sets of Press Agency News Articles},
+  Author                   = {Kienreich, Wolfgang and Granitzer, Michael and Sabol, Vedran and Klieber, Werner},
+  Booktitle                = {Proc. 17th International Conference on Database and Expert Systems Applications DEXA '06},
+  Year                     = {2006},
+  Pages                    = {181--188},
+  Publisher                = {Ieee},
+
+  Doi                      = {10.1109/DEXA.2006.112},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kienreich et al. - 2006 - Plagiarism Detection in Large Sets of Press Agency News Articles.doc:doc},
+  ISBN                     = {0-7695-2641-1},
+  ISSN                     = {1529-4188}
+}
+
+@InProceedings{IPKienreich2006a,
+  Title                    = {Geospatial Anchoring of Encyclopedia Articles},
+  Author                   = {Kienreich, Wolfgang and Granitzer, Michael and Lux, Mathias},
+  Booktitle                = {Proc. Tenth International Conference on Information Visualization IV 2006},
+  Year                     = {2006},
+  Pages                    = {211--215},
+  Publisher                = {Ieee},
+
+  Doi                      = {10.1109/IV.2006.57},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kienreich, Granitzer, Lux - 2006 - Geospatial Anchoring of Encyclopedia Articles.doc:doc},
+  ISBN                     = {0-7695-2602-0},
+  ISSN                     = {1550-6037}
+}
+
+@InProceedings{IPKlieber2006KnowMiner,
+  Title                    = {KnowMiner - Ein Service orientiertes Knowledge Discovery Framework},
+  Author                   = {Klieber, Werner and Sabol, Vedran and Granitzer, Michael and Kienreich, Wolfgang and Kern, Roman},
+  Booktitle                = {Proceedings of Berliner XML Tage, Berlin, Germany, GI-Edition 2006, Bonner K\"ollen Verlag},
+  Year                     = {2006}
+}
+
+@InProceedings{IPLuxEissenGranitzer2006SuffixTreeModel,
+  Title                    = {Graph Retrieval with the Suffix Tree Model},
+  Author                   = {{Meyer Zu Eissen}, Sven and Lux, Mathias and Granitzer, Michael},
+  Booktitle                = {Proceedings of the ECAI'06 3rd International Workshop on Text-based Information Retrieval (TIR-06)},
+  Year                     = {2006},
+
+  Url                      = {http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS//Vol-205/paper4.pdf}
+}
+
+@TechReport{IPLuxScheirGranitzerLindstaedt2006SpecialTrackAST,
+  Title                    = {Special Track on Advanced Semantic Technologies},
+  Author                   = {Lux, Mathias and Scheir, Peter and Granitzer, Michael and Lindstaedt, Stefanie},
+  Year                     = {2006},
+
+  Booktitle                = {I-KNOW '06 6th International Conference on Knowledge Management},
+  Pages                    = {249--251}
+}
+
+@InProceedings{IPLuxTochtermannGranitzer2006RetrievalSemantischerMetadaten,
+  Title                    = {Retrieval basierend auf Semantischen Metadaten},
+  Author                   = {Lux, Mathias and Tochtermann, Klaus and Granitzer, Michael},
+  Booktitle                = {Multikonferenz Wirtschaftsinformatik 2006},
+  Year                     = {2006},
+  Pages                    = {45--56},
+  Volume                   = {2},
+
+  Annote                   = {ISBN: 3-936771-62-6},
+  Url                      = {http://mathias.lux.googlepages.com/mlux-mkwi-2006-passau-preprint.pdf}
+}
+
+@InProceedings{IPRathKroellALGranitzerTochtermann06SynergizingProcesses,
+  Title                    = {Synergizing Standard and Ad-Hoc Processes},
+  Author                   = {Rath, Andreas S and Kr\"{o}ll, Mark and Andrews, Keith and Lindstaedt, Stefanie and Granitzer, Michael and Tochtermann, Klaus},
+  Booktitle                = {PAKM '06: Proceedings of the 6th International Conference on Practical Aspects of Knowledge Management},
+  Year                     = {2006},
+  Pages                    = {267--278}
+}
+
+@InProceedings{IPScheir06OntologyMapper,
+  Title                    = {The OntologyMapper plug-in: Supporting Semantic Annotation of Text-Documents by Classification},
+  Author                   = {Scheir, Peter and Hofmair, Phillip and Granitzer, Michael and Lindstaedt, Stefanie},
+  Booktitle                = {Semantic Systems From Vision to Applications - Proceedings of the SEMANTICS 2006, Vienna, Austria, November 28-30, 2006, 291-301, \{\"{O}\}sterreichische Computer Gesellschaft, Wien},
+  Year                     = {2006}
+}
+
+@InProceedings{IPTochtermannReisingerGranitzerLindstaedt06AdHoc,
+  Title                    = {Integrating Ad Hoc Processes and Standard Processes in Public Administrations},
+  Author                   = {Tochtermann, Klaus and Reisinger, Doris and Granitzer, Michael and Lindstaedt, Stefanie},
+  Booktitle                = {Proceedings of the OCG eGovernment Conference, Linz (Austria),},
+  Year                     = {2006},
+
+  Keywords                 = {dyonipos,egov}
+}
+
+@Article{NPARTGranitzer06MeltingPot,
+  Title                    = {Semantic Technologies as Melting Pot for Knowledge},
+  Author                   = {Granitzer, Michael},
+  Journal                  = {Semantic Technologies Showcase - The Austrian Situation},
+  Year                     = {2006},
+
+  Editor                   = {{A. Blumauer G. D\"{o}singer}, T Fundneider P Meindl},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer - 2006 - Semantic Technologies as Melting Pot for Knowledge.doc:doc}
+}
+
+@PhdThesis{PhDgranitzer2006KnowMiner,
+  Title                    = {Konzeption und Entwicklung eines generischen Wissenserschliessungsframeworks},
+  Author                   = {Michael, Granitzer},
+  School                   = {Graz University of Technology},
+  Year                     = {2006},
+  Type                     = {PhD Thesis},
+
+  Keywords                 = {knowledge-management mining},
+  Url                      = {http://www.know-center.tugraz.at/content/download/1087/5993/file/KnowMinerFrameworkV1.1.pdf}
+}
+
+@InProceedings{IPGranitzerAuer05HTC,
+  Title                    = {Experiments With Hierarchical Text Classification},
+  Author                   = {Granitzer, Michael and Auer, Peter},
+  Booktitle                = {Proceedings of 9th IASTED International Conference on Artifical Intelligence, IASTED},
+  Year                     = {2005},
+
+  Address                  = {Benidorm, Spain},
+  Publisher                = {ACTA Press},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer, Auer - 2005 - Experiments With Hierarchical Text Classification.ps:ps}
+}
+
+@InProceedings{IPKienreich2005,
+  Title                    = {Visualising knowledge maps for encyclopedia articles},
+  Author                   = {Kienreich, Wolfgang and Granitzer, Michael},
+  Booktitle                = {Proc. Ninth International Conference on Information Visualisation},
+  Year                     = {2005},
+  Pages                    = {213--218},
+  Publisher                = {Ieee},
+
+  Doi                      = {10.1109/IV.2005.142},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kienreich, Granitzer - 2005 - Visualising knowledge maps for encyclopedia articles.pdf:pdf},
+  ISBN                     = {0-7695-2397-8},
+  ISSN                     = {1550-6037},
+  Keywords                 = {Brockhaus Multimedial,Encyclopaedia,German language,Interaction,Java,Metaphors,Visualisation,data visualisation,display cluttering,electronic encyclopaedia,encyclopaedias,encyclopedia articles,knowledge maps,knowledge visualisation,natural languages,navigation,spatial perception,turning table,user interface,user interfaces,visualisation system}
+}
+
+@InProceedings{IPKienreich2005a,
+  Title                    = {A visual query interface for a very large newspaper article repository},
+  Author                   = {Kienreich, Wolfgang and Sabol, Vedran and Granitzer, Michael and Klieber, Werner and Lux, Mathias and Sarka, Walter},
+  Booktitle                = {Proc. Sixteenth International Workshop on Database and Expert Systems Applications},
+  Year                     = {2005},
+  Pages                    = {415--419},
+  Publisher                = {Ieee},
+
+  Doi                      = {10.1109/DEXA.2005.35},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kienreich et al. - 2005 - A visual query interface for a very large newspaper article repository.doc:doc;:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kienreich et al. - 2005 - A visual query interface for a very large newspaper article repository.pdf:pdf},
+  ISBN                     = {0-7695-2424-9},
+  ISSN                     = {1529-4188},
+  Keywords                 = {Austrian Press Agency,Boolean queries,data visualisation,electronic publishing,information retrieval systems,news agency archives,query formulation,relevance feedback,relevance ranked result lists,user interfaces,very large databases,very large newspaper article repository,visual query interface}
+}
+
+@TechReport{IPLuxGranitzer05Iknow,
+  Title                    = {Knowledge Discovery and Semantic Technologies},
+  Author                   = {Lux, Mathias and Granitzer, Michael},
+  Year                     = {2005},
+
+  Booktitle                = {JUCS - Proceedings of I-Know 05, Graz, Austria}
+}
+
+@InProceedings{IPLuxGranitzer2005RetrievalOfMPEG7,
+  Title                    = {Retrieval of MPEG-7 based Semantic Descriptions},
+  Author                   = {Lux, Mathias and Granitzer, Michael},
+  Booktitle                = {BTW-Workshop WebDB Meets IR in context of the 11. GI-Fachtagung f\"ur Datenbanksysteme in Business, Technologie und Web},
+  Year                     = {2005},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lux, Granitzer - 2005 - Retrieval of MPEG-7 based Semantic Descriptions.pdf:pdf},
+  Url                      = {http://www.semanticmetadata.net/publications/mlux-btwws2005.pdf}
+}
+
+@InProceedings{IPLuxGranitzer2005SimplePathIndex,
+  Title                    = {A Fast and Simple Path Index Based Retrieval Approach for Graph Based Semantic Descriptions},
+  Author                   = {Lux, Mathias and Granitzer, Michael},
+  Booktitle                = {Proceedings of the Second International Workshop on Text-Based Information Retrieval},
+  Year                     = {2005},
+  Pages                    = {29--44},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lux, Granitzer - 2005 - A Fast and Simple Path Index Based Retrieval Approach for Graph Based Semantic Descriptions.pdf:pdf},
+  Url                      = {http://www.semanticmetadata.net/publications/mlux-tir-2005.pdf}
+}
+
+@InProceedings{IPSabol2005,
+  Title                    = {MISTRAL - measurable, intelligent and reliable semantic extraction and retrieval of multimedia data},
+  Author                   = {Sabol, Vedran and Granitzer, Michael and Tochtermann, Klaus and Sarka, Walter},
+  Booktitle                = {Proc. 2nd European Workshop on the Integration of Knowledge, Semantics and Digital Media Technology EWIMT 2005},
+  Year                     = {2005},
+  Pages                    = {349--355},
+
+  ISSN                     = {0537-9989}
+}
+
+@InProceedings{IPTochtermannGranitzerSabolKlieber05MISTRAL,
+  Title                    = {MISTRAL: Service-orientierte Cross-Media Techniken zur Extraktion von Semantik aus Multimedia Daten und deren Anwendung},
+  Author                   = {Tochtermann, Klaus and Granitzer, Michael and Sabol, Vedran and Klieber, Werner},
+  Booktitle                = {Proceedings Semantics 2005, Reich S., G\{\"{u}\}ntner G., Pellegrini T., Wahler A. (Hrsg.) Trauner Verlag},
+  Year                     = {2005},
+
+  Keywords                 = {mistral}
+}
+
+@Misc{MISCDosingerGranitzer05ProjectMAnagement,
+  Title                    = {Projektmanagement in der anwendungsorientierten Forschung},
+
+  Author                   = {D\"{o}singer, Gisela and Granitzer, Michael},
+  Year                     = {2005}
+}
+
+@Article{NPARTTochtermannGranitzer05Wissenserschliessung,
+  Title                    = {Wissenserschlie\ss ung: Pfade durch den digitalen Informationsdschungel},
+  Author                   = {Tochtermann, Klaus and Granitzer, Michael},
+  Journal                  = {wissensmanagement - Das Magazin f\"{u}r F\"{u}hrungskr\"{a}fte,},
+  Year                     = {2005}
+}
+
+@InProceedings{IPAndrews04InfoSky,
+  Title                    = {The Visualisation of Large Hierarchical Document Spaces with InfoSky},
+  Author                   = {Andrews, Keith and Kienreich, Wolfgang and Sabol, Vedran and Granitzer, Michael},
+  Booktitle                = {Proceedings of CODATA Prague Workshop on Information Visualisation, Presentation and Design, Prague, Czech},
+  Year                     = {2004}
+}
+
+@InProceedings{IPGranitzerKienreichSabolAK2004EvaluatingASystem,
+  Title                    = {Evaluating a System for Interactive Exploration of Large, Hierarchically Structured Document Repositories},
+  Author                   = {Granitzer, Michael and Kienreich, Wolfgang and Sabol, Vedran and Klieber, Werner and Andrews, K},
+  Booktitle                = {Proc. IEEE Symposium on Information Visualization INFOVIS 2004},
+  Year                     = {2004},
+
+  Address                  = {Austin, TX},
+  Pages                    = {127--134},
+  Publisher                = {IEEE Computer Society},
+
+  Doi                      = {10.1109/INFVIS.2004.19},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2004 - Evaluating a System for Interactive Exploration of Large, Hierarchically Structured Document Repositories.pdf:pdf},
+  ISBN                     = {0-7803-8779-3},
+  ISSN                     = {1522-404X},
+  Keywords                 = {InfoSky visual explorer,Voronoi,Voronoi diagram,computational geometry,data visualisation,data warehouses,document handling,document retrieval,force-directed placement,graphical representation,hierarchical repositories,information management,information retrieval,information visualisation,interactive exploration,interactive systems,knowledge management,navigation,real-world telescope,structured document repositories,user interfaces,visual metaphor},
+  Url                      = {http://ieeexplore.ieee.org/xpl/freeabs\_all.jsp?arnumber=1382900}
+}
+
+@TechReport{IPKienreich04Iknow,
+  Title                    = {Challenges in Knowledge Discovery: Structured Repositories and Multimedia Content},
+  Author                   = {Kienreich, Wolfgang and Sabol, Vedran and Granitzer, Michael and Lux, Mathias and Klieber, Werner and Sarka, Walter},
+  Year                     = {2004},
+
+  Booktitle                = {Proceedings of I-Know'04 - 4th International Conference on Knowledge Management, Graz, Austria},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kienreich et al. - 2004 - Challenges in Knowledge Discovery Structured Repositories and Multimedia Content.pdf:pdf}
+}
+
+@InProceedings{IPLux2004a,
+  Title                    = {Caliph $\backslash$\& Emir: Semantics in Multimedia Retrieval and Annotation},
+  Author                   = {Lux, Mathias and Klieber, Werner and Granitzer, Michael},
+  Booktitle                = {19th International CODATA Conference},
+  Year                     = {2004},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lux, Klieber, Granitzer - 2004 - Caliph \& Emir Semantics in Multimedia Retrieval and Annotation.html:html},
+  Url                      = {http://www.codata.org/04conf/papers/Lux-paper.pdf}
+}
+
+@InProceedings{IPLuxGranitzerKienreichSabolKlieberSarka04CrossMediaRetrieval,
+  Title                    = {Cross Media Retrieval in Knowledge Discovery},
+  Author                   = {Lux, Mathias and Granitzer, Michael and Kienreich, Wolfgang and Sabol, Vedran and Klieber, Werner and Sarka, Walter},
+  Booktitle                = {Practical Aspects of Knowledge Management},
+  Year                     = {2004},
+
+  Address                  = {Heidelberg},
+  Pages                    = {343--352},
+  Publisher                = {Springer Berlin},
+
+  Doi                      = {10.1007/b104042},
+  Url                      = {http://www.springerlink.com/content/aawuchk2k74550b9/}
+}
+
+@InProceedings{IPGranitzer2003,
+  Title                    = {WebRat: supporting agile knowledge retrieval through dynamic, incremental clustering and automatic labelling of Web search result sets},
+  Author                   = {Granitzer, Michael and Kienreich, Wolfgang and Sabol, Vedran and Dosinger, G},
+  Booktitle                = {Proc. Twelfth IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises WET ICE 2003},
+  Year                     = {2003},
+  Pages                    = {296--301},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer et al. - 2003 - WebRat supporting agile knowledge retrieval through dynamic, incremental clustering and automatic labelling of.pdf:pdf},
+  ISSN                     = {1080-1383},
+  Keywords                 = {Internet,Web search result,WebRat,agile knowledge retrieval,automatic labelling,data structures,data visualisation,incremental clustering,information retrieval,infromation structure,interactive system,interactive systems,meta information,query processing,query refinement,search engines,search result visualization,thematic clustering}
+}
+
+@InProceedings{IPKappe03InfoSky,
+  Title                    = {InfoSky: Visual Exploration of Large Hierarchical Document Repositories},
+  Author                   = {Kappe, Frank and Droschl, Georg and Kienreich, Wolfgang and Sabol, Vedran and Becker, Jutta and Andrews, Keith and Granitzer, Michael and Tochtermann, Klaus and Auer, Peter},
+  Booktitle                = {Proceedings of HCI 2003 International, Creta, Greece},
+  Year                     = {2003}
+}
+
+@InProceedings{IPKienreich03InfoSky,
+  Title                    = {InfoSky: A System for Visual Exploration of Very Large, Hierarchically Structured Knowledge Spaces},
+  Author                   = {Kienreich, Wolfgang and Sabol, Vedran and Granitzer, Michael and Kappe, Frank and Andrews, Keith},
+  Booktitle                = {Proceedings der GI Workshopwoche, Workshop der Fachgruppe Wissensmanagement},
+  Year                     = {2003},
+
+  Address                  = {Karlsruhe},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kienreich et al. - 2003 - InfoSky A System for Visual Exploration of Very Large, Hierarchically Structured Knowledge Spaces.pdf:pdf}
+}
+
+@InProceedings{IPKienriech03Themenkarten,
+  Title                    = {Themenkarten als Erg\"{a}nzung zu hierarchiebasierter Navigation und Suche in Wissensmanagementsystemen},
+  Author                   = {Kienreich, Wolfgang and Sabol, Vedran and Granitzer, Michael and Becker, Jutta and Tochtermann, Klaus},
+  Booktitle                = {Proceedings der 4. Oldenburger Fachtagung Wissensmanagement, Oldenburg, Germany, 2003},
+  Year                     = {2003},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Kienreich et al. - 2003 - Themenkarten als Erg\"{a}nzung zu hierarchiebasierter Navigation und Suche in Wissensmanagementsystemen.doc:doc}
+}
+
+@InProceedings{IPLuxGranitzerSabolKienreichBecker03TopicCascades,
+  Title                    = {Topic Cascades: An Interactive Interface for Exploration of Clustered Web Search Results Based on the SVG Standard},
+  Author                   = {Lux, Mathias and Granitzer, Michael and Sabol, Vedran and Kienreich, Wolfgang and Becker, Jutta},
+  Booktitle                = {Knowledge-Based Intelligent Information and Engineering Systems},
+  Year                     = {2003},
+
+  Address                  = {Oxford, UK},
+  Pages                    = {967--974},
+  Publisher                = {Springer Berlin / Heidelberg},
+  Volume                   = {Lecture No},
+
+  Doi                      = {10.1007/b12002},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Lux et al. - 2003 - Topic Cascades An Interactive Interface for Exploration of Clustered Web Search Results Based on the SVG Standard.pdf:pdf},
+  Url                      = {http://www.springerlink.com/content/4m1y6m09rcefu2uy/}
+}
+
+@InProceedings{IPTochtermannSabolKienreichGranitzerBecker03EnvironmentalSE,
+  Title                    = {Enhancing Environmental Search Engines with Information Landscapes},
+  Author                   = {Tochtermann, Klaus and Sabol, Vedran and Kienreich, Wolfgang and Granitzer, Michael and Becker, J},
+  Booktitle                = {International Symposium on Environmental Software Systems},
+  Year                     = {2003},
+
+  Address                  = {Semmering, Austria},
+  Pages                    = {http://www.isess.org/},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Tochtermann et al. - 2003 - Enhancing Environmental Search Engines with Information Landscapes.doc:doc}
+}
+
+@PhdThesis{MasterGranitzer03MasterThesis,
+  Title                    = {Hierarchical Text Classification using Methods from Machine Learning},
+  Author                   = {Granitzer, Michael},
+  School                   = {University of Technology Graz},
+  Year                     = {2003},
+
+  Address                  = {Austria},
+  Type                     = {Master Thesis},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Granitzer - 2003 - Hierarchical Text Classification using Methods from Machine Learning.pdf:pdf},
+  Url                      = {http://www.know-center.tugraz.at/content/download/575/3500/file/2004\_Dip\_MGranitzer.pdf}
+}
+
+@Misc{MISCAndrewsKienreichSabolGranitzer03InfoSkyPoster,
+  Title                    = {Interactive Poster: Visualising Large Hierarchically StructuredDocument Repositories with InfoSky},
+
+  Author                   = {Andrews, Keith and Kienreich, Wolfgang and Sabol, Vedran and Granitzer, Michael},
+  Year                     = {2003}
+}
+
+@Article{ARTAndrewsKienreichSabolBeckerDroschlKappeGranitzerAuerTochtermann02InfoSky,
+  Title                    = {The InfoSky visual explorer: exploiting hierarchical structure and document similarities},
+  Author                   = {Andrews, Keith and Kienreich, Wolfgang and Sabol, Vedran and Becker, Jutta and Droschl, Georg and Kappe, Frank and Granitzer, Michael and Auer, Peter and Tochtermann, Klaus},
+  Journal                  = {Information Visualization},
+  Year                     = {2002},
+  Number                   = {3-4},
+  Pages                    = {166--181},
+  Volume                   = {1},
+
+  Doi                      = {http://dx.doi.org/10.1057/palgrave.ivs.9500023},
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Andrews et al. - 2002 - The InfoSky visual explorer exploiting hierarchical structure and document similarities.pdf:pdf},
+  ISSN                     = {1473-8716},
+  Url                      = {http://www.palgrave-journals.com/ivs/journal/v1/n3/abs/9500023a.html}
+}
+
+@InProceedings{IPKappe02InfoSky,
+  Title                    = {InfoSky: Eine neue Technologie zur Erforschung gro\ss er, hierarchischer Wissensr\"aume},
+  Author                   = {Kappe, Frank and Droschl, Georg and Kienreich, Wolfgang and Sabol, Vedran and Becker, Jutta and Andrews, Keith and Granitzer, Michael and Tochtermann, Klaus and Auer, Peter},
+  Booktitle                = {KnowTech 2002, 4. Konferenz zum Einsatz von Knowledge Management in Wirtschaft und Verwaltung (www.knowtech2002.de), M\"unchen,Germany},
+  Year                     = {2002}
+}
+
+@InProceedings{IPSabolKienreichGranitzeretal02LightweightWebBasedRetrieval,
+  Title                    = {Applications of a Lightweight, Web-Based Retrieval, Clustering, and Visualisation Framework},
+  Author                   = {Sabol, Vedran and Kienreich, Wolfgang and Granitzer, Michael and Becker, J and Tochtermann, Klaus and Andrews, Keith},
+  Booktitle                = {PAKM '02: Proceedings of the 4th International Conference on Practical Aspects of Knowledge Management},
+  Year                     = {2002},
+
+  Address                  = {London, UK},
+  Pages                    = {359--368},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Sabol et al. - 2002 - Applications of a Lightweight, Web-Based Retrieval, Clustering, and Visualisation Framework.pdf:pdf},
+  ISBN                     = {3-540-00314-2}
+}
+
+@InProceedings{IPTochtermannSabolKienreichGranitzerBecker02IntelligentMAps,
+  Title                    = {Intelligent Maps and Information Landscapes: Two new Approaches to support Search and Retrieval of Environmental Information Objects},
+  Author                   = {Tochtermann, Klaus and Sabol, Vedran and Kienreich, Wolfgang and Granitzer, Michael and Becker, Jutta},
+  Booktitle                = {International Symposium on Environmental Informatics (EnviroInfo-2002)},
+  Year                     = {2002},
+
+  Address                  = {Vienna, Austria},
+  Pages                    = {http://enviroinfo.isep.at/},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Tochtermann et al. - 2002 - Intelligent Maps and Information Landscapes Two new Approaches to support Search and Retrieval of Environmen.doc:doc}
+}
+
+@Article{NPARTBecker2002,
+  Title                    = {Wissensvisualisierung und Wissensretrieval},
+  Author                   = {Becker, Jutta and Kienreich, Wolfgang and Sabol, Vedran and Granitzer, Michael and Lux, Mathias and Klieber, Werner},
+  Journal                  = {Telematik - Zeitschrift des Telematik-Ingenieursverbande, Graz, Austria},
+  Year                     = {2002},
+  Volume                   = {03},
+
+  File                     = {:Users/mgrani/Library/Application Support/Mendeley Desktop/Downloaded/Becker et al. - 2002 - Wissensvisualisierung und Wissensretrieval.pdf:pdf}
+}
+
+@Article{NPARTBeckerGranitzerKienreichSabol02Webrat,
+  Title                    = {WebRat},
+  Author                   = {Becker, Jutta and Granitzer, Michael and Kienreich, Wolfgang and Sabol, Vedran},
+  Journal                  = {Telematik - Zeitschrift des Telematik-Ingenieursverbandes, Graz, Austria},
+  Year                     = {2002},
+  Volume                   = {03}
+}
+
