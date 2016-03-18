@@ -2549,10 +2549,11 @@ var bibtexify = (function($) {
         // adds links to the PDF or url of the item
         links: function(entryData) {
             var itemStr = '';
-            if (entryData.url && entryData.url.match(/.*\.pdf/)) {
+            if (entryData.file && entryData.file.match(/.*\.pdf/)) {
                 itemStr += ' (<a title="PDF-version of this article" href="' +
-                            entryData.url + '">pdf<\/a>)';
-            } else if (entryData.url) {
+                            entryData.file + '">pdf<\/a>)';
+            } 
+            if (entryData.url) {
                 itemStr += ' (<a title="This article online" href="' + entryData.url +
                             '">link<\/a>)';
             }
