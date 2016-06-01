@@ -118,6 +118,7 @@
 		  scientific articles},
   year		= 2014
 }
+
 @InCollection{	  14sab.tsc.vea.ea-Discovery-and-Visual-Analysis,
   abstract	= {Linked Data has grown to become one of the largest
 		  available knowledge bases. Unfortunately, this wealth of
