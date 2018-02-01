@@ -1,14 +1,202 @@
-@article{GranitzerSeifert2016DLIB,
-  author =	 {Michael Granitzer and Christin Seifert},
-  title =	 {Taking Cultural and Scientific Content to Users
-                  through the EEXCESS Project},
-  journal =	 {D-Lib Magazine},
-  year =	 2016,
-  volume =	 22,
-  number =	 {3/4},
-  month =	 3,
-  doi =		 {10.1045/march2016-content},
-  owner =	 {sech},
-  timestamp =	 {2016.03.17},
-  url =		 {http://www.dlib.org/dlib/march16/03contents.html}
+
+
+
+@InProceedings{	  15jur.gra-Comparing-Recursive-Autoencoder-and,
+  author	= {Johannes Jurgovsky and Michael Granitzer},
+  title		= {Comparing Recursive Autoencoder and Convolutional Network
+		  for Phrase-Level Sentiment Polarity Classification},
+  booktitle	= {Natural Language Processing and Information Systems - 20th
+		  International Conference on Applications of Natural
+		  Language to Information Systems, {NLDB} 2015 Passau,
+		  Germany, June 17-19, 2015 Proceedings},
+  pages		= {160--166},
+  year		= {2015},
+  crossref	= {DBLP:conf/nldb/2015},
+  url		= {http://dx.doi.org/10.1007/978-3-319-19581-0_14},
+  doi		= {10.1007/978-3-319-19581-0_14},
+  timestamp	= {Fri, 05 Jun 2015 10:11:33 +0200},
+  biburl	= {http://dblp.uni-trier.de/rec/bib/conf/nldb/JurgovskyG15},
+  bibsource	= {dblp computer science bibliography, http://dblp.org},
+  file		= {media/papers/15jur.gra-Comparing-Recursive-Autoencoder-and.pdf}
 }
+
+@inproceedings{16jur.gra.sei-Evaluating-Memory-Efficiency,
+  author    = {Johannes Jurgovsky and
+               Michael Granitzer and
+               Christin Seifert},
+  title     = {Evaluating Memory Efficiency and Robustness of Word Embeddings},
+  booktitle = {Advances in Information Retrieval - 38th European Conference on {IR}
+               Research, {ECIR} 2016, Padua, Italy, March 20-23, 2016. Proceedings},
+  pages     = {200--211},
+  year      = {2016},
+  crossref  = {DBLP:conf/ecir/2016},
+  url       = {http://dx.doi.org/10.1007/978-3-319-30671-1_15},
+  doi       = {10.1007/978-3-319-30671-1_15},
+  timestamp = {Fri, 11 Mar 2016 14:07:43 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/ecir/JurgovskyGS16},
+  bibsource = {dblp computer science bibliography, http://dblp.org},
+  editor    = {Nicola Ferro and
+               Fabio Crestani and
+               Marie{-}Francine Moens and
+               Josiane Mothe and
+               Fabrizio Silvestri and
+               Giorgio Maria Di Nunzio and
+               Claudia Hauff and
+               Gianmaria Silvello},
+  booktitle = {Advances in Information Retrieval - 38th European Conference on {IR}
+               Research, {ECIR} 2016, Padua, Italy, March 20-23, 2016. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {9626},
+  publisher = {Springer},
+  year      = {2016},
+  url       = {http://dx.doi.org/10.1007/978-3-319-30671-1},
+  doi       = {10.1007/978-3-319-30671-1},
+  isbn      = {978-3-319-30670-4},
+  file      = {media/papers/16jur.gra.sei-Evaluating-Memory-Efficiency.pdf},
+}
+
+@InProceedings{16zwi.sei.gra-DoSeR-A-Knowledge,
+  author    = {Stefan Zwicklbauer,Christin Seifert,Michael Granitzer},
+  title     = {DoSeR - A Knowledge-Base-Agnostic Framework for Entity Disambiguation
+               Using Semantic Embeddings},
+  booktitle = {The Semantic Web. Latest Advances and New Domains - 13th International
+               Conference, ESWC 2016, Heraklion, Crete, Greece, May 29 - June 2,
+               2016, Proceedings},
+  pages     = {182--198},
+  year      = {2016},
+  url       = {http://dx.doi.org/10.1007/978-3-319-34129-3_12},
+  doi       = {10.1007/978-3-319-34129-3_12},
+  timestamp = {Mon, 23 May 2016 13:46:28 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/esws/ZwicklbauerSG16},
+  bibsource = {dblp computer science bibliography, http://dblp.org},
+  file = {media/papers/16zwi.sei.gra-DoSeR-A-Knowledge.pdf},
+  editor    = {Harald Sack and
+               Eva Blomqvist and
+               Mathieu d'Aquin and
+               Chiara Ghidini and
+               Simone Paolo Ponzetto and
+               Christoph Lange},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {9678},
+  publisher = {Springer},
+  year      = {2016},
+}
+
+
+@Article{	  14kla.gra.jac.ea-Unsupervised-document-structure-analysis,
+  abstract	= {Text mining and information retrieval in large collections
+		  of scientific literature require automated processing
+		  systems that analyse the documents' content. However, the
+		  layout of scientific articles is highly varying across
+		  publishers, and common digital document formats are
+		  optimised for presentation, but lack structural
+		  information. To overcome these challenges, we have
+		  developed a processing pipeline that analyses the structure
+		  a {PDF} document using a number of unsupervised machine
+		  learning techniques and heuristics. Apart from the
+		  meta-data extraction, which we reused from previous work,
+		  our system uses only information available from the current
+		  document and does not require any pre-trained model. First,
+		  contiguous text blocks are extracted from the raw character
+		  stream. Next, we determine geometrical relations between
+		  these blocks, which, together with geometrical and font
+		  information, are then used categorize the blocks into
+		  different classes. Based on this resulting logical
+		  structure we finally extract the body text and the table of
+		  contents of a scientific article. We separately evaluate
+		  the individual stages of our pipeline on a number of
+		  different datasets and compare it with other document
+		  structure analysis approaches. We show that it outperforms
+		  a state-of-the-art system in terms of the quality of the
+		  extracted body text and table of contents. Our unsupervised
+		  approach could provide a basis for advanced digital library
+		  scenarios that involve diverse and dynamic corpora.},
+  author	= {Klampfl, Stefan and Granitzer, Michael and Jack, Kris and
+		  Kern, Roman},
+  file		= {media/papers/14kla.gra.jac.ea-Unsupervised-document-structure-analysis.pdf},
+  title		= {Unsupervised document structure analysis of digital
+		  scientific articles},
+  year		= 2014
+}
+
+
+@inproceedings{ 14sab.tsc.vea.ea-Discovery-and-Visual-Analysis,
+  abstract	= {Linked Data has grown to become one of the largest
+		  available knowledge bases. Unfortunately, this wealth of
+		  data remains inaccessible to those without in-depth
+		  knowledge of semantic technologies. We describe a toolchain
+		  enabling users without semantic technology background to
+		  explore and visually analyse Linked Data. We demonstrate
+		  its applicability in scenarios involving data from the
+		  Linked Open Data Cloud, and research data extracted from
+		  scientific publications. Our focus is on the Web-based
+		  front-end consisting of querying and visualisation tools.
+		  The performed usability evaluations unveil mainly positive
+		  results confirming that the Query Wizard simplifies
+		  searching, refining and transforming Linked Data and, in
+		  particular, that people using the Visualisation Wizard
+		  quickly learn to perform interactive analysis tasks on the
+		  resulting Linked Data sets. In making Linked Data analysis
+		  effectively accessible to the general public, our tool has
+		  been integrated in a number of live services where people
+		  use it to analyse, discover and discuss facts with Linked
+		  Data.},
+  author    = {Vedran Sabol and
+               Gerwald Tschinkel and
+               Eduardo E. Veas and
+               Patrick H{\"{o}}fler and
+               Belgin Mutlu and
+               Michael Granitzer},
+  title     = {Discovery and Visual Analysis of Linked Data for Humans},
+  booktitle = {The Semantic Web - {ISWC} 2014 - 13th International Semantic Web Conference,
+               Riva del Garda, Italy, October 19-23, 2014. Proceedings, Part {I}},
+  pages     = {309--324},
+  year      = {2014},
+  crossref  = {DBLP:conf/semweb/2014-1},
+  url       = {http://dx.doi.org/10.1007/978-3-319-11964-9_20},
+  doi       = {10.1007/978-3-319-11964-9_20},
+  timestamp = {Fri, 10 Oct 2014 14:01:06 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/semweb/SabolTVHMG14},
+  bibsource = {dblp computer science bibliography, http://dblp.org},
+  file          = {media/papers/14sab.tsc.vea.ea-Discovery-and-Visual-Analysis.pdf}
+}
+
+@InProceedings{	  13hel.str.gra.ea-Models-of-human-navigation,
+  author	= {Helic, Denis and Strohmaier, Markus and Granitzer, Michael
+		  and Scherer, Reinhold},
+  booktitle	= {Proceedings of the 24th {ACM} Conference on Hypertext and
+		  Social Media - {HT} '13},
+  doi		= {10.1145/2481492.2481502},
+  isbn		= {978-1-4503-1967-6},
+  keywords	= {decentralized search, exploitation, exploration,
+		  navigation, Nominee for the {ACM} Douglas Engelbart Best
+		  Paper A},
+  location	= {New York, New York, {USA}},
+  pages		= {89--98},
+  publisher	= {{ACM} Press},
+  title		= {Models of human navigation in information networks based
+		  on decentralized search},
+  url		= {http://dl.acm.org/citation.cfm?doid=2481492.2481502},
+  year		= 2013,
+  file          = {media/papers/13hel.str.gra.ea-Models-of-human-navigation.pdf},
+}
+
+
+@inproceedings{16zwi.sei.gra-Robust-and-Collective,
+ author = {Zwicklbauer, Stefan and Seifert, Christin and Granitzer, Michael},
+ title = {Robust and Collective Entity Disambiguation Through Semantic Embeddings},
+ booktitle = {Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+ series = {SIGIR '16},
+ year = {2016},
+ isbn = {978-1-4503-4069-4},
+ location = {Pisa, Italy},
+ pages = {425--434},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/2911451.2911535},
+ doi = {10.1145/2911451.2911535},
+ acmid = {2911535},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {embeddings, entity disasmbiguation, neuronal networks},
+ file = {media/papers/16zwi.sei.gra-Robust-and-Collective.pdf}
+} 

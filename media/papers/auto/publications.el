@@ -195,6 +195,15 @@
     "16be.sch.gra-On-the-Quality"
     "16jo.sch.mei.gra-Hypervideo-Production-Using"
     "16mei.joh.gra-A-Dual-Screen"
-    "16ha.mei.joh.gra-Second-Screen-Hypervideo"))
+    "16ha.mei.joh.gra-Second-Screen-Hypervideo"
+    "15bo.sei.sch.gra-Identifying-Tweets-from"
+    "16wit.sei.gra-explaining-topical-distances"
+    "17sei.bai.or.ga.ke.zi.pe.schl.zwi.gra-ubiquitous-access-to"
+    "17sei.schl.gra-a-compact-visualisation"
+    "17bay.gra-discovering-ranking-and"
+    "17sei.bai.or.et-ubiquitous-access-to"
+    "17khe.lap.gra-INSA-LYON-and"
+    "17sal.gra-properties-of-vector"
+    "17zie.cae.gar.gra-injecting-semantic-background"))
  :bibtex)
 
